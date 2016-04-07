@@ -7,3 +7,5 @@ A copy of the paper can be obtained at [TBD].
 The searches make use of the Eep Talstra Centre for Bible and Computer database (ETCBC4b) through LAF-Fabric. 
 These can be accessed at: 
 https://github.com/ETCBC
+
+[further details forthcoming]
