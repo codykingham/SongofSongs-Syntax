@@ -1,0 +1,148 @@
+1
+“on my bed night after night i sought him whom my soul loves
+     i sought him but did not find him.
+
+“on        sought     sought     did        find       
+pres       past       past       past       pres       
+
+מְצָאתִֽיו          בִּקַּשְׁתִּ֖יו      אָהֲבָ֖ה            בִּקַּ֕שְׁתִּי       
+
+xQt0       xQtX       ZQt0       WxQ0       
+
+
+--------------------------------------------------
+
+2
+'i must arise now and go about the city
+     in the streets and in the squares i must seek him whom my soul loves.' i sought him but did not find him.
+
+must       arise      go         i          must       seek       loves      sought     did        find       
+mod        pres       pres       pres       mod        pres       pres       past       past       pres       
+
+מְצָאתִֽיו          בִּקַּשְׁתִּ֖יו      אָהֲבָ֖ה            אֲבַקְשָׁ֕ה          אֲסֹובְבָ֣ה         אָק֨וּמָה           
+
+ZYq0       WYq0       ZYq0       xQtX       ZQt0       WxQ0       
+
+
+--------------------------------------------------
+
+3
+"the watchmen who make the rounds in the city found me, and i said, 'have you seen him whom my soul loves?'
+
+make       found      said       'have      seen       loves      
+pres       past       past       pres       PTptc      pres       
+
+רְאִיתֶֽם           אָהֲבָ֥ה            סֹּבְבִ֖ים          שֹּׁ֣מְרִ֔ים         מְצָא֨וּנִי֙        
+
+ZQtX       Ptcp       xQtX       xQt0       
+
+
+--------------------------------------------------
+
+4
+"scarcely had i left them when i found him whom my soul loves
+     i held on to him and would not let him go, until i had brought him to my mother's house, and into the room of her who conceived me."
+
+had        left       found      held       would      let        go         had        brought    conceived  
+past       past       past       past       mod        pres       pres       past       PTptc      past       
+
+הֹורָתִֽי           הֲבֵיאתִיו֙         אַרְפֶּ֔נּוּ        אֲחַזְתִּיו֙        אָהֲבָ֖ה            מָּצָ֔אתִי          עָבַ֣רְתִּי         
+
+NmCl       xQt0       xQt0       xQtX       ZQt0       WxY0       xQt0       
+
+
+--------------------------------------------------
+
+5
+"i adjure you, o daughters of jerusalem, by the gazelles or by the hinds of the field, that you will not arouse or awaken my love, until she pleases."
+
+will       arouse     awaken     pleases    
+mod        pres       pres       pres       
+
+תֶּחְפָּֽץ          תְּעֹֽורְר֛וּ       תָּעִ֧ירוּ          הִשְׁבַּ֨עְתִּי      
+
+ZQt0       Voct       xYq0       WxY0       xYq0       
+
+
+--------------------------------------------------
+
+6
+"what is this coming up from the wilderness like columns of smoke, perfumed with myrrh and frankincense, with all scented powders of the merchant?
+
+is         coming     perfumed   
+pres       PSTptc     PTptc      
+
+רֹוכֵֽל             מְקֻטֶּ֤רֶת         עֹלָה֙              
+
+Ptcp       AjCl       
+
+
+--------------------------------------------------
+
+7
+"behold, it is the traveling couch of solomon
+     sixty mighty men around it, of the mighty men of israel.
+
+is         traveling  
+pres       PSTptc     
+
+
+
+NmCl       NmCl       NmCl       
+
+
+--------------------------------------------------
+
+8
+"all of them are wielders of the sword, expert in war
+     each man has his sword at his side, guarding against the terrors of the night.
+
+are        has        guarding   
+pres       pres       PSTptc     
+
+מְלֻמְּדֵ֖י         
+
+NmCl       NmCl       CPen       NmCl       
+
+
+--------------------------------------------------
+
+9
+"king solomon has made for himself a sedan chair from the timber of lebanon.
+
+has        made       
+pres       PTptc      
+
+עָ֤שָׂה              
+
+xQtX       
+
+
+--------------------------------------------------
+
+10
+ "he made its posts of silver, its back of gold and its seat of purple fabric, with its interior lovingly fitted out by the daughters of jerusalem.
+
+made       fitted     
+past       PTptc      
+
+רָצ֣וּף             עָ֣שָׂה              
+
+xQt0       Ellp       Ellp       Ptcp       
+
+
+--------------------------------------------------
+
+11
+ "go forth, o daughters of zion, and gaze on king solomon with the crown with which his mother has crowned him on the day of his wedding, and on the day of his gladness of heart."
+
+go         king       has        crowned    
+pres       PSTptc     pres       PTptc      
+
+עִטְּרָה            רְאֶ֛ינָה           צְאֶ֧ינָה           
+
+ZIm0       WIm0       Voct       Ellp       xQtX       
+
+
+--------------------------------------------------
+

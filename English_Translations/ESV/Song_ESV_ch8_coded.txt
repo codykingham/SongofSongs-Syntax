@@ -1,0 +1,195 @@
+1
+oh that you were like a brother to me who nursed at my mother's breasts
+     if i found you outside, i would kiss you, and none would despise me.
+
+were       nursed     i          found      would      kiss       would      despise    
+past       past       PTptc      pres       mod        pres       mod        pres       
+
+יָב֥וּזוּ           אֶשָּׁ֣קְךָ֔         אֶֽמְצָאֲךָ֤        יֹונֵ֖ק             יִתֶּנְךָ֙          
+
+XYqt       Ptcp       ZYq0       ZYq0       xYq0       
+
+
+--------------------------------------------------
+
+2
+i would lead you and bring you into the house of my mother-- she who used to teach me
+     i would give you spiced wine to drink, the juice of my pomegranate.
+
+would      lead       bring      used       teach      would      give       spiced     drink      
+mod        pres       pres       past       pres       mod        pres       PTptc      pres       
+
+אַשְׁקְךָ֙           תְּלַמְּדֵ֑נִי      אֲבִֽיאֲךָ֛         אֶנְהָֽגֲךָ֗        
+
+ZYq0       ZYq0       ZYq0       ZYq0       
+
+
+--------------------------------------------------
+
+3
+his left hand is under my head, and his right hand embraces me!
+
+is         
+pres       
+
+תְּחַבְּקֵֽנִי      
+
+NmCl       WXYq       
+
+
+--------------------------------------------------
+
+4
+i adjure you, o daughters of jerusalem, that you not stir up or awaken love until it pleases.
+
+stir       awaken     pleases    
+pres       pres       pres       
+
+תֶּחְפָּֽץ          תְּעֹֽרְר֛וּ        תָּעִ֧ירוּ          הִשְׁבַּ֥עְתִּי      
+
+ZQt0       Voct       xYq0       WxY0       xYq0       
+
+
+--------------------------------------------------
+
+5
+who is that coming up from the wilderness, leaning on her beloved
+     under the apple tree i awakened you
+          there your mother was in labor with you
+               there she who bore you was in labor.
+
+is         coming     leaning    beloved    awakened   was        bore       was        
+pres       PSTptc     PSTptc     past       past       past       past       past       
+
+יְלָדַֽתְךָ         חִבְּלָ֥ה           חִבְּלַ֣תְךָ        עֹֽורַרְתִּ֔יךָ     מִתְרַפֶּ֖קֶת       עֹלָה֙              
+
+Ptcp       Ptcp       xQt0       xQtX       xQtX       ZQt0       
+
+
+--------------------------------------------------
+
+6
+set me as a seal upon your heart, as a seal upon your arm, for love is strong as death, jealousy is fierce as the grave
+     its flashes are flashes of fire, the very flame of the lord.
+
+set        is         is         are        
+pres       pres       pres       pres       
+
+שִׂימֵ֨נִי           
+
+ZIm0       Ellp       AjCl       AjCl       NmCl       
+
+
+--------------------------------------------------
+
+7
+many waters cannot quench love, neither can floods drown it
+     if a man offered for love all the wealth of his house, he would be utterly despised.
+
+can        quench     can        floods     drown      offered    would      be         despised   
+mod        pres       mod        pres       pres       PTptc      mod        pres       PTptc      
+
+יָב֥וּזוּ           בֹּ֖וז              יִתֵּ֨ן             יִשְׁטְפ֑וּהָ        כַבֹּ֣ות            יֽוּכְלוּ֙          
+
+XYqt       InfC       WXYq       xYqX       xYq0       
+
+
+--------------------------------------------------
+
+8
+we have a little sister, and she has no breasts
+     what shall we do for our sister on the day when she is spoken for?
+
+have       has        shall      do         is         spoken     
+pres       pres       mod        pres       pres       PTptc      
+
+יְּדֻבַּר           נַּעֲשֶׂה֙           
+
+NmCl       NmCl       xYq0       xYq0       
+
+
+--------------------------------------------------
+
+9
+if she is a wall, we will build on her a battlement of silver, but if she is a door, we will enclose her with boards of cedar.
+
+is         will       build      is         will       enclose    
+pres       mod        pres       pres       mod        pres       
+
+נָצ֥וּר             נִבְנֶ֥ה            
+
+NmCl       ZYq0       NmCl       ZYq0       
+
+
+--------------------------------------------------
+
+10
+ i was a wall, and my breasts were like towers
+     then i was in his eyes as one who finds peace.
+
+was        were       was        finds      
+past       past       past       pres       
+
+מֹוצְאֵ֥ת           הָיִ֥יתִי           
+
+NmCl       NmCl       xQt0       
+
+
+--------------------------------------------------
+
+11
+ solomon had a vineyard at baal-hamon
+     he let out the vineyard to keepers
+          each one was to bring for its fruit a thousand pieces of silver.
+
+had        let        was        bring      
+past       pres       past       pres       
+
+יָבִ֥א              נֹּטְרִ֑ים          נָתַ֥ן              הָיָ֤ה              
+
+XQtl       ZQt0       XYqt       
+
+
+--------------------------------------------------
+
+12
+ my vineyard, my very own, is before me
+     you, o solomon, may have the thousand, and the keepers of the fruit two hundred.
+
+is         may        have       hundred    
+pres       mod        pres       past       
+
+נֹטְרִ֥ים           
+
+NmCl       NmCl       NmCl       Voct       NmCl       Ptcp       
+
+
+--------------------------------------------------
+
+13
+ o you who dwell in the gardens, with companions listening for your voice
+     let me hear it.
+
+dwell      listening  let        hear       
+pres       PSTptc     pres       pres       
+
+הַשְׁמִיעִֽינִי      מַקְשִׁיבִ֥ים        יֹּושֶׁ֣בֶת          
+
+Voct       Ptcp       ZIm0       
+
+
+--------------------------------------------------
+
+14
+ make haste, my beloved, and be like a gazelle or a young stag on the mountains of spices.
+
+make       beloved    be         
+pres       PTptc      pres       
+
+דְמֵה               בְּרַ֣ח             
+
+ZIm0       Voct       WIm0       Ellp       
+
+
+--------------------------------------------------
+

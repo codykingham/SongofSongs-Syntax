@@ -1,0 +1,229 @@
+1
+i am a rose of sharon, a lily of the valleys.
+
+am         rose       
+pres       past       
+
+
+
+NmCl       NmCl       
+
+
+--------------------------------------------------
+
+2
+as a lily among brambles, so is my love among the young women.
+
+is         
+pres       
+
+
+
+CPen       NmCl       
+
+
+--------------------------------------------------
+
+3
+as an apple tree among the trees of the forest, so is my beloved among the young men
+     with great delight i sat in his shadow, and his fruit was sweet to my taste.
+
+is         sat        was        
+pres       past       past       
+
+יָשַׁ֔בְתִּי         חִמַּ֣דְתִּי        
+
+NmCl       NmCl       xQt0       WQt0       AjCl       
+
+
+--------------------------------------------------
+
+4
+he brought me to the banqueting house, and his banner over me was love.
+
+brought    was        
+past       past       
+
+הֱבִיאַ֨נִי֙        
+
+ZQt0       NmCl       
+
+
+--------------------------------------------------
+
+5
+sustain me with raisins
+     refresh me with apples, for i am sick with love.
+
+sustain    refresh    am         
+pres       pres       pres       
+
+חֹולַ֥ת             רַפְּד֖וּנִי        סַמְּכ֨וּנִי֙       
+
+ZIm0       ZIm0       AjCl       
+
+
+--------------------------------------------------
+
+6
+his left hand is under my head, and his right hand embraces me!
+
+is         
+pres       
+
+תְּחַבְּקֵֽנִי      
+
+NmCl       WXYq       
+
+
+--------------------------------------------------
+
+7
+i adjure you, o daughters of jerusalem, by the gazelles or the does of the field, that you not stir up or awaken love until it pleases.
+
+does       stir       awaken     pleases    
+pres       pres       pres       pres       
+
+תֶּחְפָּֽץ          תְּעֹֽורְר֛וּ       תָּעִ֧ירוּ          הִשְׁבַּ֨עְתִּי      
+
+ZQt0       Voct       xYq0       WxY0       xYq0       
+
+
+--------------------------------------------------
+
+8
+the voice of my beloved
+     behold, he comes, leaping over the mountains, bounding over the hills.
+
+comes      leaping    bounding   
+pres       PSTptc     PSTptc     
+
+מְקַפֵּ֖ץ           מְדַלֵּג֙           בָּ֑א               
+
+NmCl       Ptcp       Ptcp       Ptcp       
+
+
+--------------------------------------------------
+
+9
+my beloved is like a gazelle or a young stag
+     behold, there he stands behind our wall, gazing through the windows, looking through the lattice.
+
+beloved    is         stands     gazing     looking    
+PTptc      pres       pres       PSTptc     PSTptc     
+
+מֵצִ֖יץ             מַשְׁגִּ֨יחַ֙        עֹומֵד֙             דֹּומֶ֤ה            
+
+Ptcp       Ptcp       Ptcp       Ptcp       
+
+
+--------------------------------------------------
+
+10
+ my beloved speaks and says to me: "arise, my love, my beautiful one, and come away,
+
+beloved    says       come       
+PTptc      pres       pres       
+
+לְכִי               ק֥וּמִי             אָ֣מַר              עָנָ֥ה              
+
+ZQtX       WQt0       ZIm0       Voct       WIm0       
+
+
+--------------------------------------------------
+
+11
+ for behold, the winter is past
+     the rain is over and gone.
+
+is         is         gone       
+pres       pres       PTptc      
+
+הָלַ֥ךְ             חָלַ֖ף              עָבָ֑ר              
+
+XQtl       XQtl       ZQt0       
+
+
+--------------------------------------------------
+
+12
+ the flowers appear on the earth, the time of singing has come, and the voice of the turtledove is heard in our land.
+
+appear     has        come       is         heard      
+pres       pres       PTptc      pres       PTptc      
+
+נִשְׁמַ֥ע            הִגִּ֑יעַ           נִרְא֣וּ            
+
+XQtl       XQtl       WXQt       
+
+
+--------------------------------------------------
+
+13
+ the fig tree ripens its figs, and the vines are in blossom
+     they give forth fragrance
+          arise, my love, my beautiful one, and come away.
+
+ripens     are        give       come       
+pres       pres       pres       pres       
+
+לְכִי               ק֥וּמִי             נָ֣תְנוּ            חָֽנְטָ֣ה           
+
+XQtl       WXQt       ZIm0       Voct       WIm0       
+
+
+--------------------------------------------------
+
+14
+ o my dove, in the clefts of the rock, in the crannies of the cliff, let me see your face, let me hear your voice, for your voice is sweet, and your face is lovely.
+
+let        see        let        hear       is         is         
+pres       pres       pres       pres       pres       pres       
+
+הַשְׁמִיעִ֖ינִי      הַרְאִ֨ינִי֙        
+
+Voct       ZIm0       ZIm0       AjCl       AjCl       
+
+
+--------------------------------------------------
+
+15
+ catch the foxes for us, the little foxes that spoil the vineyards, for our vineyards are in blossom."
+
+catch      spoil      are        
+pres       pres       pres       
+
+מְחַבְּלִ֣ים        אֶֽחֱזוּ            
+
+ZIm0       Ptcp       NmCl       
+
+
+--------------------------------------------------
+
+16
+ my beloved is mine, and i am his
+     he grazes among the lilies.
+
+beloved    is         i          am         grazes     
+PTptc      pres       pres       pres       pres       
+
+רֹעֶ֖ה              
+
+NmCl       NmCl       Ptcp       
+
+
+--------------------------------------------------
+
+17
+ until the day breathes and the shadows flee, turn, my beloved, be like a gazelle or a young stag on cleft mountains.
+
+flee       beloved    be         
+pres       PTptc      pres       
+
+דְּמֵה              סֹב֩                נָ֖סוּ              יָּפ֨וּחַ֙          
+
+xYqX       WQtX       ZIm0       ZIm0       Voct       Ellp       
+
+
+--------------------------------------------------
+

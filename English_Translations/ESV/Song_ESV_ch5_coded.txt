@@ -1,0 +1,225 @@
+1
+i came to my garden, my sister, my bride, i gathered my myrrh with my spice, i ate my honeycomb with my honey, i drank my wine with my milk
+     eat, friends, drink, and be drunk with love!
+
+came       gathered   ate        drank      be         drunk      
+past       past       pres       pres       pres       PTptc      
+
+שִׁכְר֖וּ            שְׁת֥וּ              אִכְל֣וּ            שָׁתִ֥יתִי           אָכַ֤לְתִּי         אָרִ֤יתִי           בָּ֣אתִי            
+
+ZQt0       Voct       ZQt0       ZQt0       ZQt0       ZIm0       Voct       ZIm0       WIm0       Voct       
+
+
+--------------------------------------------------
+
+2
+i slept, but my heart was awake
+     a sound
+          my beloved is knocking
+               "open to me, my sister, my love, my dove, my perfect one, for my head is wet with dew, my locks with the drops of the night."
+
+was        beloved    is         knocking   is         
+past       PTptc      pres       PSTptc     pres       
+
+נִמְלָא             פִּתְחִי            דֹופֵ֗ק             עֵ֑ר                
+
+AjCl       Ptcp       NmCl       Ptcp       ZIm0       Voct       Ptcp       NmCl       
+
+
+--------------------------------------------------
+
+3
+i had put off my garment
+     how could i put it on
+          i had bathed my feet
+               how could i soil them?
+
+had        put        could      i          put        had        bathed     could      i          soil       
+past       PTptc      mod        pres       past       past       PTptc      mod        pres       pres       
+
+אֲטַנְּפֵֽם         רָחַ֥צְתִּי         אֶלְבָּשֶׁ֑נָּה      פָּשַׁ֨טְתִּי֙       
+
+ZQt0       xYq0       ZQt0       xYq0       
+
+
+--------------------------------------------------
+
+4
+my beloved put his hand to the latch, and my heart was thrilled within me.
+
+beloved    put        was        thrilled   
+PTptc      pres       past       PTptc      
+
+הָמ֥וּ              שָׁלַ֤ח              
+
+XQtl       WXQt       
+
+
+--------------------------------------------------
+
+5
+i arose to open to my beloved, and my hands dripped with myrrh, my fingers with liquid myrrh, on the handles of the bolt.
+
+arose      open       beloved    dripped    
+past       pres       PTptc      PTptc      
+
+עֹבֵ֔ר              נָֽטְפוּ            פְתֹּ֣חַ            קַ֥מְתִּֽי          
+
+ZQtX       InfC       WXQt       Ellp       
+
+
+--------------------------------------------------
+
+6
+i opened to my beloved, but my beloved had turned and gone
+     my soul failed me when he spoke
+          i sought him, but found him not
+               i called him, but he gave no answer.
+
+opened     beloved    had        turned     gone       failed     spoke      sought     found      called     gave       
+past       PTptc      past       PTptc      PTptc      past       past       past       past       past       past       
+
+עָנָֽנִי            קְרָאתִ֖יו          מְצָאתִ֔יהוּ        בִּקַּשְׁתִּ֨יהוּ֙   דַבְּרֹ֔ו           יָֽצְאָ֣ה           עָבָ֑ר              חָמַ֣ק              פָּתַ֤חְתִּֽי       
+
+ZQtX       WXQt       ZQt0       XQtl       InfC       ZQt0       WxQ0       ZQt0       WxQ0       
+
+
+--------------------------------------------------
+
+7
+the watchmen found me as they went about in the city
+     they beat me, they bruised me, they took away my veil, those watchmen of the walls.
+
+found      went       beat       bruised    took       
+past       past       pres       past       past       
+
+שֹׁמְרֵ֖י            נָשְׂא֤וּ            פְצָע֑וּנִי         הִכּ֣וּנִי          סֹּבְבִ֥ים          שֹּׁמְרִ֛ים          מְצָאֻ֧נִי          
+
+ZQtX       Ptcp       ZQt0       ZQt0       ZQtX       
+
+
+--------------------------------------------------
+
+8
+i adjure you, o daughters of jerusalem, if you find my beloved, that you tell him i am sick with love.
+
+find       tell       i          am         
+pres       pres       pres       pres       
+
+חֹולַ֥ת             תַּגִּ֣ידוּ         תִּמְצְאוּ֙         הִשְׁבַּ֥עְתִּי      
+
+ZQt0       Voct       xYq0       xYq0       AjCl       
+
+
+--------------------------------------------------
+
+9
+what is your beloved more than another beloved, o most beautiful among women
+     what is your beloved more than another beloved, that you thus adjure us?
+
+is         beloved    beloved    o          is         beloved    beloved    adjure     
+pres       past       PTptc      pres       pres       past       PTptc      pres       
+
+הִשְׁבַּעְתָּֽנוּ    
+
+NmCl       Voct       NmCl       xQt0       
+
+
+--------------------------------------------------
+
+10
+ my beloved is radiant and ruddy, distinguished among ten thousand.
+
+beloved    is         distinguished
+PTptc      pres       PTptc      
+
+דָּג֖וּל            
+
+AjCl       Ptcp       
+
+
+--------------------------------------------------
+
+11
+ his head is the finest gold
+     his locks are wavy, black as a raven.
+
+is         are        
+pres       pres       
+
+
+
+NmCl       NmCl       AjCl       
+
+
+--------------------------------------------------
+
+12
+ his eyes are like doves beside streams of water, bathed in milk, sitting beside a full pool.
+
+are        beside     bathed     sitting    
+pres       pres       PTptc      PSTptc     
+
+יֹשְׁבֹ֖ות           רֹֽחֲצֹות֙          
+
+NmCl       Ptcp       Ptcp       
+
+
+--------------------------------------------------
+
+13
+ his cheeks are like beds of spices, mounds of sweet-smelling herbs
+     his lips are lilies, dripping liquid myrrh.
+
+are        are        dripping   
+pres       pres       PSTptc     
+
+עֹבֵֽר              נֹטְפֹ֖ות           
+
+NmCl       NmCl       NmCl       Ptcp       
+
+
+--------------------------------------------------
+
+14
+ his arms are rods of gold, set with jewels
+     his body is polished ivory, bedecked with sapphires.
+
+are        set        is         bedecked   
+pres       PTptc      pres       PTptc      
+
+מְעֻלֶּ֖פֶת         מְמֻלָּאִ֖ים        
+
+NmCl       Ptcp       NmCl       Ptcp       
+
+
+--------------------------------------------------
+
+15
+ his legs are alabaster columns, set on bases of gold
+     his appearance is like lebanon, choice as the cedars.
+
+are        set        is         
+pres       PTptc      pres       
+
+בָּח֖וּר            מְיֻסָּדִ֖ים        
+
+NmCl       Ptcp       NmCl       Ptcp       
+
+
+--------------------------------------------------
+
+16
+ his mouth is most sweet, and he is altogether desirable
+     this is my beloved and this is my friend, o daughters of jerusalem.
+
+is         is         is         is         
+pres       pres       pres       pres       
+
+
+
+NmCl       NmCl       NmCl       NmCl       Voct       
+
+
+--------------------------------------------------
+

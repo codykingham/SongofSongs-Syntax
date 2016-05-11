@@ -1,0 +1,217 @@
+1
+“how beautiful you are, my darling, how beautiful you are
+     your eyes are like doves behind your veil
+          your hair is like a flock of goats that have descended from mount gilead.
+
+are        are        are        is         have       descended  
+pres       pres       pres       pres       pres       PTptc      
+
+גָּלְשׁ֖וּ           
+
+AjCl       Voct       AjCl       NmCl       NmCl       xQt0       
+
+
+--------------------------------------------------
+
+2
+"your teeth are like a flock of newly shorn ewes which have come up from their washing, all of which bear twins, and not one among them has lost her young.
+
+are        shorn      have       come       has        lost       
+pres       PTptc      pres       PTptc      pres       PTptc      
+
+מַתְאִימֹ֔ות        עָל֖וּ              קְּצוּבֹ֔ות         
+
+NmCl       xQt0       Ptcp       NmCl       
+
+
+--------------------------------------------------
+
+3
+"your lips are like a scarlet thread, and your mouth is lovely
+     your temples are like a slice of a pomegranate behind your veil.
+
+are        is         are        
+pres       pres       pres       
+
+
+
+NmCl       AjCl       NmCl       
+
+
+--------------------------------------------------
+
+4
+"your neck is like the tower of david built with rows of stones, on which are hung a thousand shields, all the round shields of the mighty men.
+
+is         built      are        
+pres       PTptc      pres       
+
+תָּל֣וּי            בָּנ֖וּי            
+
+NmCl       Ptcp       Ptcp       NmCl       
+
+
+--------------------------------------------------
+
+5
+"your two breasts are like two fawns, twins of a gazelle, which feed among the lilies.
+
+are        feed       
+pres       pres       
+
+רֹועִ֖ים            
+
+NmCl       NmCl       Ptcp       
+
+
+--------------------------------------------------
+
+6
+"until the cool of the day when the shadows flee away, i will go my way to the mountain of myrrh and to the hill of frankincense.
+
+flee       will       go         
+pres       mod        pres       
+
+אֵ֤לֶךְ             נָ֖סוּ              יָּפ֨וּחַ֙          
+
+xYqX       WQtX       xYq0       
+
+
+--------------------------------------------------
+
+7
+"you are altogether beautiful, my darling, and there is no blemish in you.
+
+are        is         
+pres       pres       
+
+
+
+AjCl       Voct       NmCl       
+
+
+--------------------------------------------------
+
+8
+"come with me from lebanon, my bride, may you come with me from lebanon
+     journey down from the summit of amana, from the summit of senir and hermon, from the dens of lions, from the mountains of leopards.
+
+may        come       
+mod        pres       
+
+תָּשׁ֣וּרִי          תָּבֹ֑ואִי          
+
+Ellp       Voct       xYq0       ZYq0       Ellp       
+
+
+--------------------------------------------------
+
+9
+"you have made my heart beat faster, my sister, my bride
+     you have made my heart beat faster with a single glance of your eyes, with a single strand of your necklace.
+
+have       made       have       made       
+pres       PTptc      pres       PTptc      
+
+לִבַּבְתִּ֨ינִי֙    לִבַּבְתִּ֖נִי      
+
+ZQt0       Voct       ZQt0       Ellp       
+
+
+--------------------------------------------------
+
+10
+ "how beautiful is your love, my sister, my bride
+     how much better is your love than wine, and the fragrance of your oils than all kinds of spices!
+
+is         is         
+pres       pres       
+
+טֹּ֤בוּ             יָּפ֥וּ             
+
+xQtX       Voct       xQtX       Ellp       
+
+
+--------------------------------------------------
+
+11
+ "your lips, my bride, drip honey
+     honey and milk are under your tongue, and the fragrance of your garments is like the fragrance of lebanon.
+
+are        is         
+pres       pres       
+
+תִּטֹּ֥פְנָה        
+
+xYqX       Voct       NmCl       NmCl       
+
+
+--------------------------------------------------
+
+12
+ "a garden locked is my sister, my bride, a rock garden locked, a spring sealed up.
+
+locked     is         locked     sealed     
+PTptc      pres       PTptc      PTptc      
+
+חָתֽוּם             נָע֖וּל             נָע֖וּל             
+
+NmCl       Voct       NmCl       NmCl       
+
+
+--------------------------------------------------
+
+13
+ "your shoots are an orchard of pomegranates with choice fruits, henna with nard plants,
+
+are        
+pres       
+
+
+
+NmCl       NmCl       
+
+
+--------------------------------------------------
+
+14
+ nard and saffron, calamus and cinnamon, with all the trees of frankincense, myrrh and aloes, along with all the finest spices.
+
+saffron    
+pres       
+
+
+
+NmCl       NmCl       
+
+
+--------------------------------------------------
+
+15
+ "you are a garden spring, a well of fresh water, and streams flowing from lebanon."
+
+are        flowing    
+pres       PSTptc     
+
+נֹזְלִ֖ים           
+
+NmCl       NmCl       NmCl       
+
+
+--------------------------------------------------
+
+16
+ "awake, o north wind, and come, wind of the south
+     make my garden breathe out fragrance, let its spices be wafted abroad
+          may my beloved come into his garden and eat its choice fruits!"
+
+come       make       let        be         wafted     may        come       eat        
+pres       pres       pres       pres       PTptc      mod        PTptc      pres       
+
+יֹאכַ֖ל             יָבֹ֤א              יִזְּל֣וּ           הָפִ֥יחִי           בֹ֣ואִי             ע֤וּרִי             
+
+ZIm0       Voct       WIm0       Voct       ZIm0       ZYqX       ZYqX       WYq0       
+
+
+--------------------------------------------------
+

@@ -1,0 +1,235 @@
+1
+i am a rose of sharon, a lily of the valleys.
+
+am         rose       
+pres       past       
+
+
+
+NmCl       NmCl       
+
+
+--------------------------------------------------
+
+2
+like a lily among thorns is my darling among the maidens.
+
+is         
+pres       
+
+
+
+CPen       NmCl       
+
+
+--------------------------------------------------
+
+3
+like an apple tree among the trees of the forest is my lover among the young men
+     i delight to sit in his shade, and his fruit is sweet to my taste.
+
+is         delight    sit        is         
+pres       past       pres       pres       
+
+יָשַׁ֔בְתִּי         חִמַּ֣דְתִּי        
+
+NmCl       NmCl       xQt0       WQt0       AjCl       
+
+
+--------------------------------------------------
+
+4
+he has taken me to the banquet hall, and his banner over me is love.
+
+has        taken      is         
+pres       PTptc      pres       
+
+הֱבִיאַ֨נִי֙        
+
+ZQt0       NmCl       
+
+
+--------------------------------------------------
+
+5
+strengthen me with raisins, refresh me with apples, for i am faint with love.
+
+strengthen refresh    am         
+pres       pres       pres       
+
+חֹולַ֥ת             רַפְּד֖וּנִי        סַמְּכ֨וּנִי֙       
+
+ZIm0       ZIm0       AjCl       
+
+
+--------------------------------------------------
+
+6
+his left arm is under my head, and his right arm embraces me.
+
+is         embraces   
+pres       pres       
+
+תְּחַבְּקֵֽנִי      
+
+NmCl       WXYq       
+
+
+--------------------------------------------------
+
+7
+daughters of jerusalem, i charge you by the gazelles and by the does of the field: do not arouse or awaken love until it so desires.
+
+does       do         arouse     awaken     desires    
+pres       pres       pres       pres       pres       
+
+תֶּחְפָּֽץ          תְּעֹֽורְר֛וּ       תָּעִ֧ירוּ          הִשְׁבַּ֨עְתִּי      
+
+ZQt0       Voct       xYq0       WxY0       xYq0       
+
+
+--------------------------------------------------
+
+8
+listen
+     my lover
+          look
+               here he comes, leaping across the mountains, bounding over the hills.
+
+comes      leaping    bounding   
+pres       PSTptc     PSTptc     
+
+מְקַפֵּ֖ץ           מְדַלֵּג֙           בָּ֑א               
+
+NmCl       Ptcp       Ptcp       Ptcp       
+
+
+--------------------------------------------------
+
+9
+my lover is like a gazelle or a young stag
+     look
+          there he stands behind our wall, gazing through the windows, peering through the lattice.
+
+is         stands     gazing     peering    
+pres       pres       PSTptc     PSTptc     
+
+מֵצִ֖יץ             מַשְׁגִּ֨יחַ֙        עֹומֵד֙             דֹּומֶ֤ה            
+
+Ptcp       Ptcp       Ptcp       Ptcp       
+
+
+--------------------------------------------------
+
+10
+ my lover spoke and said to me, "arise, my darling, my beautiful one, and come with me.
+
+said       come       
+past       pres       
+
+לְכִי               ק֥וּמִי             אָ֣מַר              עָנָ֥ה              
+
+ZQtX       WQt0       ZIm0       Voct       WIm0       
+
+
+--------------------------------------------------
+
+11
+ see
+     the winter is past
+          the rains are over and gone.
+
+see        is         are        gone       
+pres       pres       pres       PTptc      
+
+הָלַ֥ךְ             חָלַ֖ף              עָבָ֑ר              
+
+XQtl       XQtl       ZQt0       
+
+
+--------------------------------------------------
+
+12
+ flowers appear on the earth
+     the season of singing has come, the cooing of doves is heard in our land.
+
+appear     has        come       is         heard      
+pres       pres       PTptc      pres       PTptc      
+
+נִשְׁמַ֥ע            הִגִּ֑יעַ           נִרְא֣וּ            
+
+XQtl       XQtl       WXQt       
+
+
+--------------------------------------------------
+
+13
+ the fig tree forms its early fruit
+     the blossoming vines spread their fragrance
+          arise, come, my darling
+               my beautiful one, come with me."
+
+forms      spread     come       come       
+pres       pres       pres       PTptc      
+
+לְכִי               ק֥וּמִי             נָ֣תְנוּ            חָֽנְטָ֣ה           
+
+XQtl       WXQt       ZIm0       Voct       WIm0       
+
+
+--------------------------------------------------
+
+14
+ my dove in the clefts of the rock, in the hiding places on the mountainside, show me your face, let me hear your voice
+     for your voice is sweet, and your face is lovely.
+
+show       let        hear       is         is         
+pres       pres       pres       pres       pres       
+
+הַשְׁמִיעִ֖ינִי      הַרְאִ֨ינִי֙        
+
+Voct       ZIm0       ZIm0       AjCl       AjCl       
+
+
+--------------------------------------------------
+
+15
+ catch for us the foxes, the little foxes that ruin the vineyards, our vineyards that are in bloom.
+
+ruin       are        
+pres       pres       
+
+מְחַבְּלִ֣ים        אֶֽחֱזוּ            
+
+ZIm0       Ptcp       NmCl       
+
+
+--------------------------------------------------
+
+16
+ my lover is mine and i am his
+     he browses among the lilies.
+
+is         am         browses    
+pres       pres       pres       
+
+רֹעֶ֖ה              
+
+NmCl       NmCl       Ptcp       
+
+
+--------------------------------------------------
+
+17
+ until the day breaks and the shadows flee, turn, my lover, and be like a gazelle or like a young stag on the rugged hills.
+
+flee       be         
+pres       pres       
+
+דְּמֵה              סֹב֩                נָ֖סוּ              יָּפ֨וּחַ֙          
+
+xYqX       WQtX       ZIm0       ZIm0       Voct       Ellp       
+
+
+--------------------------------------------------
+

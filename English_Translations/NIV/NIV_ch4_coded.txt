@@ -1,0 +1,225 @@
+1
+how beautiful you are, my darling
+     oh, how beautiful
+          your eyes behind your veil are doves
+               your hair is like a flock of goats descending from mount gilead.
+
+are        are        is         descending 
+pres       pres       pres       PSTptc     
+
+גָּלְשׁ֖וּ           
+
+AjCl       Voct       AjCl       NmCl       NmCl       xQt0       
+
+
+--------------------------------------------------
+
+2
+your teeth are like a flock of sheep just shorn, coming up from the washing
+     each has its twin
+          not one of them is alone.
+
+are        shorn      coming     has        is         
+pres       PTptc      PSTptc     pres       pres       
+
+מַתְאִימֹ֔ות        עָל֖וּ              קְּצוּבֹ֔ות         
+
+NmCl       xQt0       Ptcp       NmCl       
+
+
+--------------------------------------------------
+
+3
+your lips are like a scarlet ribbon
+     your mouth is lovely
+          your temples behind your veil are like the halves of a pomegranate.
+
+are        is         are        
+pres       pres       pres       
+
+
+
+NmCl       AjCl       NmCl       
+
+
+--------------------------------------------------
+
+4
+your neck is like the tower of david, built with elegance
+     on it hang a thousand shields, all of them shields of warriors.
+
+is         built      hang       
+pres       PTptc      past       
+
+תָּל֣וּי            בָּנ֖וּי            
+
+NmCl       Ptcp       Ptcp       NmCl       
+
+
+--------------------------------------------------
+
+5
+your two breasts are like two fawns, like twin fawns of a gazelle that browse among the lilies.
+
+are        browse     
+pres       pres       
+
+רֹועִ֖ים            
+
+NmCl       NmCl       Ptcp       
+
+
+--------------------------------------------------
+
+6
+until the day breaks and the shadows flee, i will go to the mountain of myrrh and to the hill of incense.
+
+flee       will       go         
+pres       mod        pres       
+
+אֵ֤לֶךְ             נָ֖סוּ              יָּפ֨וּחַ֙          
+
+xYqX       WQtX       xYq0       
+
+
+--------------------------------------------------
+
+7
+all beautiful you are, my darling
+     there is no flaw in you.
+
+are        is         
+pres       pres       
+
+
+
+AjCl       Voct       NmCl       
+
+
+--------------------------------------------------
+
+8
+come with me from lebanon, my bride, come with me from lebanon
+     descend from the crest of amana, from the top of senir, the summit of hermon, from the lions' dens and the mountain haunts of the leopards.
+
+come       
+pres       
+
+תָּשׁ֣וּרִי          תָּבֹ֑ואִי          
+
+Ellp       Voct       xYq0       ZYq0       Ellp       
+
+
+--------------------------------------------------
+
+9
+you have stolen my heart, my sister, my bride
+     you have stolen my heart with one glance of your eyes, with one jewel of your necklace.
+
+have       stolen     have       stolen     
+pres       PTptc      pres       PTptc      
+
+לִבַּבְתִּ֨ינִי֙    לִבַּבְתִּ֖נִי      
+
+ZQt0       Voct       ZQt0       Ellp       
+
+
+--------------------------------------------------
+
+10
+ how delightful is your love, my sister, my bride
+     how much more pleasing is your love than wine, and the fragrance of your perfume than any spice!
+
+is         is         
+pres       pres       
+
+טֹּ֤בוּ             יָּפ֥וּ             
+
+xQtX       Voct       xQtX       Ellp       
+
+
+--------------------------------------------------
+
+11
+ your lips drop sweetness as the honeycomb, my bride
+     milk and honey are under your tongue
+          the fragrance of your garments is like that of lebanon.
+
+are        is         
+pres       pres       
+
+תִּטֹּ֥פְנָה        
+
+xYqX       Voct       NmCl       NmCl       
+
+
+--------------------------------------------------
+
+12
+ you are a garden locked up, my sister, my bride
+     you are a spring enclosed, a sealed fountain.
+
+are        locked     are        enclosed   
+pres       PTptc      pres       PTptc      
+
+חָתֽוּם             נָע֖וּל             נָע֖וּל             
+
+NmCl       Voct       NmCl       NmCl       
+
+
+--------------------------------------------------
+
+13
+ your plants are an orchard of pomegranates with choice fruits, with henna and nard,
+
+are        
+pres       
+
+
+
+NmCl       NmCl       
+
+
+--------------------------------------------------
+
+14
+ nard and saffron, calamus and cinnamon, with every kind of incense tree, with myrrh and aloes and all the finest spices.
+
+saffron    
+pres       
+
+
+
+NmCl       NmCl       
+
+
+--------------------------------------------------
+
+15
+ you are a garden fountain, a well of flowing water streaming down from lebanon.
+
+are        flowing    streaming  
+pres       PSTptc     PSTptc     
+
+נֹזְלִ֖ים           
+
+NmCl       NmCl       NmCl       
+
+
+--------------------------------------------------
+
+16
+ awake, north wind, and come, south wind
+     blow on my garden, that its fragrance may spread abroad
+          let my lover come into his garden and taste its choice fruits.
+
+come       may        spread     let        come       
+pres       mod        pres       pres       PTptc      
+
+יֹאכַ֖ל             יָבֹ֤א              יִזְּל֣וּ           הָפִ֥יחִי           בֹ֣ואִי             ע֤וּרִי             
+
+ZIm0       Voct       WIm0       Voct       ZIm0       ZYqX       ZYqX       WYq0       
+
+
+--------------------------------------------------
+

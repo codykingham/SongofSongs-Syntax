@@ -1,0 +1,201 @@
+1
+oh, i wish you were my brother, who nursed at my mother's breasts
+     then i could kiss you no matter who was watching, and no one would criticize me.
+
+wish       were       nursed     could      kiss       was        watching   would      criticize  
+pres       past       past       mod        pres       past       PSTptc     mod        pres       
+
+יָב֥וּזוּ           אֶשָּׁ֣קְךָ֔         אֶֽמְצָאֲךָ֤        יֹונֵ֖ק             יִתֶּנְךָ֙          
+
+XYqt       Ptcp       ZYq0       ZYq0       xYq0       
+
+
+--------------------------------------------------
+
+2
+i would bring you to my childhood home, and there you would teach me
+     i would give you spiced wine to drink, my sweet pomegranate wine.
+
+would      bring      would      teach      would      give       spiced     drink      
+mod        pres       mod        pres       mod        pres       PTptc      pres       
+
+אַשְׁקְךָ֙           תְּלַמְּדֵ֑נִי      אֲבִֽיאֲךָ֛         אֶנְהָֽגֲךָ֗        
+
+ZYq0       ZYq0       ZYq0       ZYq0       
+
+
+--------------------------------------------------
+
+3
+your left arm would be under my head, and your right arm would embrace me.
+
+would      be         would      embrace    
+mod        pres       mod        pres       
+
+תְּחַבְּקֵֽנִי      
+
+NmCl       WXYq       
+
+
+--------------------------------------------------
+
+4
+promise me, o women of jerusalem, not to awaken love until the time is right
+     young women of jerusalem
+
+promise    awaken     love       is         
+pres       pres       pres       pres       
+
+תֶּחְפָּֽץ          תְּעֹֽרְר֛וּ        תָּעִ֧ירוּ          הִשְׁבַּ֥עְתִּי      
+
+ZQt0       Voct       xYq0       WxY0       xYq0       
+
+
+--------------------------------------------------
+
+5
+who is this sweeping in from the desert, leaning on her lover
+     young woman i aroused you under the apple tree, where your mother gave you birth, where in great pain she delivered you.
+
+is         leaning    aroused    gave       delivered  
+pres       PSTptc     past       past       past       
+
+יְלָדַֽתְךָ         חִבְּלָ֥ה           חִבְּלַ֣תְךָ        עֹֽורַרְתִּ֔יךָ     מִתְרַפֶּ֖קֶת       עֹלָה֙              
+
+Ptcp       Ptcp       xQt0       xQtX       xQtX       ZQt0       
+
+
+--------------------------------------------------
+
+6
+place me like a seal over your heart, like a seal on your arm
+     for love is as strong as death, its jealousy as enduring as the grave
+          love flashes like fire, the brightest kind of flame.
+
+is         enduring   love       
+pres       PSTptc     pres       
+
+שִׂימֵ֨נִי           
+
+ZIm0       Ellp       AjCl       AjCl       NmCl       
+
+
+--------------------------------------------------
+
+7
+many waters cannot quench love, nor can rivers drown it
+     if a man tried to buy love with all his wealth, his offer would be utterly scorned
+          the young woman's brothers
+
+can        quench     can        rivers     drown      tried      buy        love       would      be         scorned    
+mod        pres       mod        pres       pres       PTptc      pres       pres       mod        pres       PTptc      
+
+יָב֥וּזוּ           בֹּ֖וז              יִתֵּ֨ן             יִשְׁטְפ֑וּהָ        כַבֹּ֣ות            יֽוּכְלוּ֙          
+
+XYqt       InfC       WXYq       xYqX       xYq0       
+
+
+--------------------------------------------------
+
+8
+we have a little sister too young to have breasts
+     what will we do for our sister if someone asks to marry her?
+
+have       have       will       do         asks       marry      
+pres       pres       mod        pres       pres       pres       
+
+יְּדֻבַּר           נַּעֲשֶׂה֙           
+
+NmCl       NmCl       xYq0       xYq0       
+
+
+--------------------------------------------------
+
+9
+if she is a virgin, like a wall, we will protect her with a silver tower
+     but if she is promiscuous, like a swinging door, we will block her door with a cedar bar
+          young woman
+
+is         will       protect    is         swinging   will       block      
+pres       mod        pres       pres       PSTptc     mod        pres       
+
+נָצ֥וּר             נִבְנֶ֥ה            
+
+NmCl       ZYq0       NmCl       ZYq0       
+
+
+--------------------------------------------------
+
+10
+ i was a virgin, like a wall
+     now my breasts are like towers
+          when my lover looks at me, he is delighted with what he sees.
+
+was        are        looks      is         delighted  sees       
+past       pres       pres       pres       PTptc      pres       
+
+מֹוצְאֵ֥ת           הָיִ֥יתִי           
+
+NmCl       NmCl       xQt0       
+
+
+--------------------------------------------------
+
+11
+ solomon has a vineyard at baal-hamon, which he leases out to tenant farmers
+     each of them pays a thousand pieces of silver for harvesting its fruit.
+
+has        leases     tenant     pays       harvesting 
+pres       pres       pres       pres       PSTptc     
+
+יָבִ֥א              נֹּטְרִ֑ים          נָתַ֥ן              הָיָ֤ה              
+
+XQtl       ZQt0       XYqt       
+
+
+--------------------------------------------------
+
+12
+ but my vineyard is mine to give, and solomon need not pay a thousand pieces of silver
+     but i will give two hundred pieces to those who care for its vines
+          young man
+
+is         give       need       pay        will       give       care       
+pres       pres       mod        pres       mod        pres       pres       
+
+נֹטְרִ֥ים           
+
+NmCl       NmCl       NmCl       Voct       NmCl       Ptcp       
+
+
+--------------------------------------------------
+
+13
+ o my darling, lingering in the gardens, your companions are fortunate to hear your voice
+     let me hear it, too
+          young woman
+
+lingering  are        hear       let        hear       
+PSTptc     pres       pres       pres       pres       
+
+הַשְׁמִיעִֽינִי      מַקְשִׁיבִ֥ים        יֹּושֶׁ֣בֶת          
+
+Voct       Ptcp       ZIm0       
+
+
+--------------------------------------------------
+
+14
+ come away, my love
+     be like a gazelle or a young stag on the mountains of spices.
+
+come       be         
+pres       pres       
+
+דְמֵה               בְּרַ֣ח             
+
+ZIm0       Voct       WIm0       Ellp       
+
+
+--------------------------------------------------
+

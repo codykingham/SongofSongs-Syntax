@@ -1,0 +1,236 @@
+1
+the song of songs, which is solomon's.
+
+is         
+pres       
+
+
+
+NmCl       NmCl       
+
+
+--------------------------------------------------
+
+2
+let him kiss me with the kisses of his mouth
+     for your love is better than wine;
+
+let        kiss       is         
+pres       pres       pres       
+
+יִשָּׁקֵ֨נִי֙        
+
+ZYq0       AjCl       
+
+
+--------------------------------------------------
+
+3
+your anointing oils are fragrant
+     your name is oil poured out
+          therefore virgins love you.
+
+are        is         poured     
+pres       pres       PTptc      
+
+אֲהֵבֽוּךָ          תּוּרַ֣ק            
+
+AjCl       NmCl       ZYq0       XQtl       
+
+
+--------------------------------------------------
+
+4
+draw me after you
+     let us run
+          the king has brought me into his chambers
+               we will exult and rejoice in you
+                    we will extol your love more than wine
+                         rightly do they love you.
+
+draw       let        run        has        brought    will       exult      rejoice    will       extol      do         love       
+pres       pres       pres       pres       PTptc      mod        pres       pres       mod        pres       pres       pres       
+
+אֲהֵבֽוּךָ          נַזְכִּ֤ירָה        נִשְׂמְחָה֙          נָגִ֤ילָה           הֱבִיאַ֨נִי         נָּר֑וּצָה          מָשְׁכֵ֖נִי          
+
+ZIm0       xYq0       ZQtX       ZYq0       WYq0       ZYq0       xQt0       
+
+
+--------------------------------------------------
+
+5
+i am very dark, but lovely, o daughters of jerusalem, like the tents of kedar, like the curtains of solomon.
+
+am         
+pres       
+
+
+
+AjCl       AjCl       Voct       Ellp       
+
+
+--------------------------------------------------
+
+6
+do not gaze at me because i am dark, because the sun has looked upon me
+     my mother's sons were angry with me
+          they made me keeper of the vineyards, but my own vineyard i have not kept!
+
+do         gaze       am         has        looked     were       made       have       kept       
+pres       pres       pres       pres       PTptc      past       past       pres       PTptc      
+
+נָטָֽרְתִּי         נֹטֵרָ֣ה            שָׂמֻ֨נִי֙           נִֽחֲרוּ            שֱּׁזָפַ֖תְנִי       תִּרְא֨וּנִי֙       
+
+xYq0       AjCl       xQtX       XQtl       ZQt0       Ptcp       xQt0       NmCl       
+
+
+--------------------------------------------------
+
+7
+tell me, you whom my soul loves, where you pasture your flock, where you make it lie down at noon
+     for why should i be like one who veils herself beside the flocks of your companions?
+
+tell       loves      pasture    make       lie        should     be         veils      
+pres       pres       pres       pres       pres       mod        pres       pres       
+
+עֹ֣טְיָ֔ה           אֶֽהְיֶה֙           תַּרְבִּ֣יץ         תִרְעֶ֔ה            אָהֲבָה֙            הַגִּ֣ידָה          
+
+ZIm0       Voct       xYq0       xYq0       xYq0       
+
+
+--------------------------------------------------
+
+8
+if you do not know, o most beautiful among women, follow in the tracks of the flock, and pasture your young goats beside the shepherds' tents.
+
+do         know       follow     pasture    
+pres       pres       pres       pres       
+
+רֹעִֽים             רְעִי֙              צְֽאִי              תֵדְעִי֙            
+
+xYq0       Voct       ZIm0       WIm0       
+
+
+--------------------------------------------------
+
+9
+i compare you, my love, to a mare among pharaoh's chariots.
+
+compare    
+pres       
+
+דִּמִּיתִ֖יךְ       
+
+xQt0       Voct       
+
+
+--------------------------------------------------
+
+10
+ your cheeks are lovely with ornaments, your neck with strings of jewels.
+
+are        
+pres       
+
+נָאו֤וּ             
+
+ZQtX       Ellp       
+
+
+--------------------------------------------------
+
+11
+ we will make for you ornaments of gold, studded with silver.
+
+will       make       studded    
+mod        pres       PTptc      
+
+נַעֲשֶׂה             
+
+xYq0       
+
+
+--------------------------------------------------
+
+12
+ while the king was on his couch, my nard gave forth its fragrance.
+
+was        gave       
+past       past       
+
+נָתַ֥ן              
+
+NmCl       XQtl       
+
+
+--------------------------------------------------
+
+13
+ my beloved is to me a sachet of myrrh that lies between my breasts.
+
+beloved    is         lies       
+PTptc      pres       pres       
+
+יָלִֽין             
+
+NmCl       xYq0       
+
+
+--------------------------------------------------
+
+14
+ my beloved is to me a cluster of henna blossoms in the vineyards of engedi.
+
+beloved    is         
+PTptc      pres       
+
+
+
+NmCl       
+
+
+--------------------------------------------------
+
+15
+ behold, you are beautiful, my love
+     behold, you are beautiful
+          your eyes are doves.
+
+are        are        are        
+pres       pres       pres       
+
+
+
+AjCl       Voct       AjCl       NmCl       
+
+
+--------------------------------------------------
+
+16
+ behold, you are beautiful, my beloved, truly delightful
+     our couch is green;
+
+are        beloved    is         
+pres       PTptc      pres       
+
+
+
+AjCl       Voct       AjCl       AjCl       
+
+
+--------------------------------------------------
+
+17
+ the beams of our house are cedar
+     our rafters are pine.
+
+are        are        
+pres       pres       
+
+
+
+NmCl       NmCl       
+
+
+--------------------------------------------------
+

@@ -1,0 +1,224 @@
+1
+you are beautiful, my darling, beautiful beyond words
+     your eyes are like doves behind your veil
+          your hair falls in waves, like a flock of goats winding down the slopes of gilead.
+
+are        are        falls      winding    
+pres       pres       pres       PSTptc     
+
+גָּלְשׁ֖וּ           
+
+AjCl       Voct       AjCl       NmCl       NmCl       xQt0       
+
+
+--------------------------------------------------
+
+2
+your teeth are as white as sheep, recently shorn and freshly washed
+     your smile is flawless, each tooth matched with its twin.
+
+are        shorn      washed     is         matched    
+pres       PTptc      past       pres       past       
+
+מַתְאִימֹ֔ות        עָל֖וּ              קְּצוּבֹ֔ות         
+
+NmCl       xQt0       Ptcp       NmCl       
+
+
+--------------------------------------------------
+
+3
+your lips are like scarlet ribbon
+     your mouth is inviting
+          your cheeks are like rosy pomegranates behind your veil.
+
+are        is         inviting   are        
+pres       pres       PSTptc     pres       
+
+
+
+NmCl       AjCl       NmCl       
+
+
+--------------------------------------------------
+
+4
+your neck is as beautiful as the tower of david, jeweled with the shields of a thousand heroes.
+
+is         jeweled    
+pres       PTptc      
+
+תָּל֣וּי            בָּנ֖וּי            
+
+NmCl       Ptcp       Ptcp       NmCl       
+
+
+--------------------------------------------------
+
+5
+your breasts are like two fawns, twin fawns of a gazelle grazing among the lilies.
+
+are        
+pres       
+
+רֹועִ֖ים            
+
+NmCl       NmCl       Ptcp       
+
+
+--------------------------------------------------
+
+6
+before the dawn breezes blow and the night shadows flee, i will hurry to the mountain of myrrh and to the hill of frankincense.
+
+breezes    shadows    will       hurry      
+pres       pres       mod        pres       
+
+אֵ֤לֶךְ             נָ֖סוּ              יָּפ֨וּחַ֙          
+
+xYqX       WQtX       xYq0       
+
+
+--------------------------------------------------
+
+7
+you are altogether beautiful, my darling, beautiful in every way.
+
+are        
+pres       
+
+
+
+AjCl       Voct       NmCl       
+
+
+--------------------------------------------------
+
+8
+come with me from lebanon, my bride, come with me from lebanon
+     come down from mount amana, from the peaks of senir and hermon, where the lions have their dens and leopards live among the hills.
+
+come       come       have       live       
+pres       pres       pres       pres       
+
+תָּשׁ֣וּרִי          תָּבֹ֑ואִי          
+
+Ellp       Voct       xYq0       ZYq0       Ellp       
+
+
+--------------------------------------------------
+
+9
+you have captured my heart, my treasure, my bride
+     you hold it hostage with one glance of your eyes, with a single jewel of your necklace.
+
+have       captured   hold       
+pres       PTptc      pres       
+
+לִבַּבְתִּ֨ינִי֙    לִבַּבְתִּ֖נִי      
+
+ZQt0       Voct       ZQt0       Ellp       
+
+
+--------------------------------------------------
+
+10
+ your love delights me, my treasure, my bride
+     your love is better than wine, your perfume more fragrant than spices.
+
+is         
+pres       
+
+טֹּ֤בוּ             יָּפ֥וּ             
+
+xQtX       Voct       xQtX       Ellp       
+
+
+--------------------------------------------------
+
+11
+ your lips are as sweet as nectar, my bride
+     honey and milk are under your tongue
+          your clothes are scented like the cedars of lebanon.
+
+are        are        are        scented    
+pres       pres       pres       PTptc      
+
+תִּטֹּ֥פְנָה        
+
+xYqX       Voct       NmCl       NmCl       
+
+
+--------------------------------------------------
+
+12
+ you are my private garden, my treasure, my bride, a secluded spring, a hidden fountain.
+
+are        
+pres       
+
+חָתֽוּם             נָע֖וּל             נָע֖וּל             
+
+NmCl       Voct       NmCl       NmCl       
+
+
+--------------------------------------------------
+
+13
+ your thighs shelter a paradise of pomegranates with rare spices-- henna with nard,
+
+shelter    
+pres       
+
+
+
+NmCl       NmCl       
+
+
+--------------------------------------------------
+
+14
+ nard and saffron, fragrant calamus and cinnamon, with all the trees of frankincense, myrrh, and aloes, and every other lovely spice.
+
+saffron    
+pres       
+
+
+
+NmCl       NmCl       
+
+
+--------------------------------------------------
+
+15
+ you are a garden fountain, a well of fresh water streaming down from lebanon's mountains
+     young woman
+
+are        streaming  
+pres       PSTptc     
+
+נֹזְלִ֖ים           
+
+NmCl       NmCl       NmCl       
+
+
+--------------------------------------------------
+
+16
+ awake, north wind
+     rise up, south wind
+          blow on my garden and spread its fragrance all around
+               come into your garden, my love
+                    taste its finest fruits
+                         young man
+
+spread     come       
+past       pres       
+
+יֹאכַ֖ל             יָבֹ֤א              יִזְּל֣וּ           הָפִ֥יחִי           בֹ֣ואִי             ע֤וּרִי             
+
+ZIm0       Voct       WIm0       Voct       ZIm0       ZYqX       ZYqX       WYq0       
+
+
+--------------------------------------------------
+

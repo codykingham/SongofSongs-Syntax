@@ -1,0 +1,232 @@
+1
+i have entered my garden, my treasure, my bride
+     i gather myrrh with my spices and eat honeycomb with my honey
+          i drink wine with my milk
+               young women of jerusalem oh, lover and beloved, eat and drink
+                    yes, drink deeply of your love
+                         young woman
+
+have       entered    gather     drink      beloved    drink      drink      
+pres       PTptc      pres       pres       past       pres       pres       
+
+שִׁכְר֖וּ            שְׁת֥וּ              אִכְל֣וּ            שָׁתִ֥יתִי           אָכַ֤לְתִּי         אָרִ֤יתִי           בָּ֣אתִי            
+
+ZQt0       Voct       ZQt0       ZQt0       ZQt0       ZIm0       Voct       ZIm0       WIm0       Voct       
+
+
+--------------------------------------------------
+
+2
+i slept, but my heart was awake, when i heard my lover knocking and calling: "open to me, my treasure, my darling, my dove, my perfect one
+     my head is drenched with dew, my hair with the dampness of the night."
+
+was        heard      calling    open       is         drenched   
+past       pres       PSTptc     pres       pres       PTptc      
+
+נִמְלָא             פִּתְחִי            דֹופֵ֗ק             עֵ֑ר                
+
+AjCl       Ptcp       NmCl       Ptcp       ZIm0       Voct       Ptcp       NmCl       
+
+
+--------------------------------------------------
+
+3
+but i responded, "i have taken off my robe
+     should i get dressed again
+          i have washed my feet
+               should i get them soiled?"
+
+responded  have       taken      should     i          get        dressed    have       washed     should     i          get        soiled     
+past       pres       PTptc      mod        pres       pres       PTptc      pres       PTptc      mod        pres       pres       PTptc      
+
+אֲטַנְּפֵֽם         רָחַ֥צְתִּי         אֶלְבָּשֶׁ֑נָּה      פָּשַׁ֨טְתִּי֙       
+
+ZQt0       xYq0       ZQt0       xYq0       
+
+
+--------------------------------------------------
+
+4
+my lover tried to unlatch the door, and my heart thrilled within me.
+
+tried      unlatch    thrilled   
+past       pres       past       
+
+הָמ֥וּ              שָׁלַ֤ח              
+
+XQtl       WXQt       
+
+
+--------------------------------------------------
+
+5
+i jumped up to open the door for my love, and my hands dripped with perfume
+     my fingers dripped with lovely myrrh as i pulled back the bolt.
+
+jumped     open       dripped    dripped    pulled     
+past       pres       PTptc      past       past       
+
+עֹבֵ֔ר              נָֽטְפוּ            פְתֹּ֣חַ            קַ֥מְתִּֽי          
+
+ZQtX       InfC       WXQt       Ellp       
+
+
+--------------------------------------------------
+
+6
+i opened to my lover, but he was gone
+     my heart sank
+          i searched for him but could not find him anywhere
+               i called to him, but there was no reply.
+
+opened     was        gone       searched   could      find       called     was        
+past       past       PTptc      past       mod        pres       PTptc      past       
+
+עָנָֽנִי            קְרָאתִ֖יו          מְצָאתִ֔יהוּ        בִּקַּשְׁתִּ֨יהוּ֙   דַבְּרֹ֔ו           יָֽצְאָ֣ה           עָבָ֑ר              חָמַ֣ק              פָּתַ֤חְתִּֽי       
+
+ZQtX       WXQt       ZQt0       XQtl       InfC       ZQt0       WxQ0       ZQt0       WxQ0       
+
+
+--------------------------------------------------
+
+7
+the night watchmen found me as they made their rounds
+     they beat and bruised me and stripped off my veil, those watchmen on the walls.
+
+found      made       beat       bruised    stripped   
+past       past       pres       past       past       
+
+שֹׁמְרֵ֖י            נָשְׂא֤וּ            פְצָע֑וּנִי         הִכּ֣וּנִי          סֹּבְבִ֥ים          שֹּׁמְרִ֛ים          מְצָאֻ֧נִי          
+
+ZQtX       Ptcp       ZQt0       ZQt0       ZQtX       
+
+
+--------------------------------------------------
+
+8
+make this promise, o women of jerusalem-- if you find my lover, tell him i am weak with love
+     young women of jerusalem
+
+make       find       tell       i          am         
+pres       pres       pres       pres       pres       
+
+חֹולַ֥ת             תַּגִּ֣ידוּ         תִּמְצְאוּ֙         הִשְׁבַּ֥עְתִּי      
+
+ZQt0       Voct       xYq0       xYq0       AjCl       
+
+
+--------------------------------------------------
+
+9
+why is your lover better than all others, o woman of rare beauty
+     what makes your lover so special that we must promise this
+          young woman
+
+is         makes      must       promise    
+pres       pres       mod        pres       
+
+הִשְׁבַּעְתָּֽנוּ    
+
+NmCl       Voct       NmCl       xQt0       
+
+
+--------------------------------------------------
+
+10
+ my lover is dark and dazzling, better than ten thousand others!
+
+is         
+pres       
+
+דָּג֖וּל            
+
+AjCl       Ptcp       
+
+
+--------------------------------------------------
+
+11
+ his head is finest gold, his wavy hair is black as a raven.
+
+is         is         
+pres       pres       
+
+
+
+NmCl       NmCl       AjCl       
+
+
+--------------------------------------------------
+
+12
+ his eyes sparkle like doves beside springs of water
+     they are set like jewels washed in milk.
+
+sparkle    beside     are        set        washed     
+pres       pres       pres       PTptc      PTptc      
+
+יֹשְׁבֹ֖ות           רֹֽחֲצֹות֙          
+
+NmCl       Ptcp       Ptcp       
+
+
+--------------------------------------------------
+
+13
+ his cheeks are like gardens of spices giving off fragrance
+     his lips are like lilies, perfumed with myrrh.
+
+are        giving     are        perfumed   
+pres       PSTptc     pres       PTptc      
+
+עֹבֵֽר              נֹטְפֹ֖ות           
+
+NmCl       NmCl       NmCl       Ptcp       
+
+
+--------------------------------------------------
+
+14
+ his arms are like rounded bars of gold, set with beryl
+     his body is like bright ivory, glowing with lapis lazuli.
+
+are        set        is         glowing    
+pres       PTptc      pres       PSTptc     
+
+מְעֻלֶּ֖פֶת         מְמֻלָּאִ֖ים        
+
+NmCl       Ptcp       NmCl       Ptcp       
+
+
+--------------------------------------------------
+
+15
+ his legs are like marble pillars set in sockets of finest gold
+     his posture is stately, like the noble cedars of lebanon.
+
+are        set        is         
+pres       PTptc      pres       
+
+בָּח֖וּר            מְיֻסָּדִ֖ים        
+
+NmCl       Ptcp       NmCl       Ptcp       
+
+
+--------------------------------------------------
+
+16
+ his mouth is sweetness itself
+     he is desirable in every way
+          such, o women of jerusalem, is my lover, my friend
+               young women of jerusalem
+
+is         is         is         
+pres       pres       pres       
+
+
+
+NmCl       NmCl       NmCl       NmCl       Voct       
+
+
+--------------------------------------------------
+

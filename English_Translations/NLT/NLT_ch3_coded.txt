@@ -1,0 +1,154 @@
+1
+one night as i lay in bed, i yearned for my lover
+     i yearned for him, but he did not come.
+
+lay        yearned    yearned    did        come       
+pres       past       past       past       PTptc      
+
+מְצָאתִֽיו          בִּקַּשְׁתִּ֖יו      אָהֲבָ֖ה            בִּקַּ֕שְׁתִּי       
+
+xQt0       xQtX       ZQt0       WxQ0       
+
+
+--------------------------------------------------
+
+2
+so i said to myself, "i will get up and roam the city, searching in all its streets and squares
+     i will search for the one i love." so i searched everywhere but did not find him.
+
+said       myself     will       get        roam       searching  will       search     searched   did        find       
+past       pres       mod        pres       pres       PSTptc     mod        pres       past       past       pres       
+
+מְצָאתִֽיו          בִּקַּשְׁתִּ֖יו      אָהֲבָ֖ה            אֲבַקְשָׁ֕ה          אֲסֹובְבָ֣ה         אָק֨וּמָה           
+
+ZYq0       WYq0       ZYq0       xQtX       ZQt0       WxQ0       
+
+
+--------------------------------------------------
+
+3
+the watchmen stopped me as they made their rounds, and i asked, "have you seen the one i love?"
+
+stopped    made       asked      have       seen       
+past       past       past       pres       PTptc      
+
+רְאִיתֶֽם           אָהֲבָ֥ה            סֹּבְבִ֖ים          שֹּׁ֣מְרִ֔ים         מְצָא֨וּנִי֙        
+
+ZQtX       Ptcp       xQtX       xQt0       
+
+
+--------------------------------------------------
+
+4
+then scarcely had i left them when i found my love
+     i caught and held him tightly, then i brought him to my mother's house, into my mother's bed, where i had been conceived.
+
+had        left       found      caught     held       i          brought    had        been       conceived  
+past       past       past       past       past       pres       past       past       PTptc      PTptc      
+
+הֹורָתִֽי           הֲבֵיאתִיו֙         אַרְפֶּ֔נּוּ        אֲחַזְתִּיו֙        אָהֲבָ֖ה            מָּצָ֔אתִי          עָבַ֣רְתִּי         
+
+NmCl       xQt0       xQt0       xQtX       ZQt0       WxY0       xQt0       
+
+
+--------------------------------------------------
+
+5
+promise me, o women of jerusalem, by the gazelles and wild deer, not to awaken love until the time is right
+     young women of jerusalem
+
+promise    awaken     love       is         
+pres       pres       pres       pres       
+
+תֶּחְפָּֽץ          תְּעֹֽורְר֛וּ       תָּעִ֧ירוּ          הִשְׁבַּ֨עְתִּי      
+
+ZQt0       Voct       xYq0       WxY0       xYq0       
+
+
+--------------------------------------------------
+
+6
+who is this sweeping in from the wilderness like a cloud of smoke
+     who is it, fragrant with myrrh and frankincense and every kind of spice?
+
+is         is         
+pres       pres       
+
+רֹוכֵֽל             מְקֻטֶּ֤רֶת         עֹלָה֙              
+
+Ptcp       AjCl       
+
+
+--------------------------------------------------
+
+7
+look, it is solomon's carriage, surrounded by sixty heroic men, the best of israel's soldiers.
+
+is         surrounded 
+pres       PTptc      
+
+
+
+NmCl       NmCl       NmCl       
+
+
+--------------------------------------------------
+
+8
+they are all skilled swordsmen, experienced warriors
+     each wears a sword on his thigh, ready to defend the king against an attack in the night.
+
+are        experiencedwears      defend     
+pres       past       pres       pres       
+
+מְלֻמְּדֵ֖י         
+
+NmCl       NmCl       CPen       NmCl       
+
+
+--------------------------------------------------
+
+9
+king solomon's carriage is built of wood imported from lebanon.
+
+king       is         built      imported   
+PSTptc     pres       PTptc      PTptc      
+
+עָ֤שָׂה              
+
+xQtX       
+
+
+--------------------------------------------------
+
+10
+ its posts are silver, its canopy gold
+     its cushions are purple
+          it was decorated with love by the young women of jerusalem
+               young woman
+
+are        are        was        decorated  
+pres       pres       past       PTptc      
+
+רָצ֣וּף             עָ֣שָׂה              
+
+xQt0       Ellp       Ellp       Ptcp       
+
+
+--------------------------------------------------
+
+11
+ come out to see king solomon, young women of jerusalem
+     he wears the crown his mother gave him on his wedding day, his most joyous day
+          young man
+
+come       see        wears      gave       
+PTptc      pres       pres       past       
+
+עִטְּרָה            רְאֶ֛ינָה           צְאֶ֧ינָה           
+
+ZIm0       WIm0       Voct       Ellp       xQtX       
+
+
+--------------------------------------------------
+

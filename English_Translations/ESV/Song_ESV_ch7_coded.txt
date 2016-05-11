@@ -1,0 +1,177 @@
+1
+how beautiful are your feet in sandals, o noble daughter
+     your rounded thighs are like jewels, the work of a master hand.
+
+are        o          are        
+pres       pres       pres       
+
+יָּפ֧וּ             
+
+xQtX       Voct       NmCl       
+
+
+--------------------------------------------------
+
+2
+your navel is a rounded bowl that never lacks mixed wine
+     your belly is a heap of wheat, encircled with lilies.
+
+is         lacks      is         encircled  
+pres       pres       pres       PTptc      
+
+סוּגָ֖ה             יֶחְסַ֖ר            
+
+NmCl       xYqX       NmCl       Ptcp       
+
+
+--------------------------------------------------
+
+3
+your two breasts are like two fawns, twins of a gazelle.
+
+are        
+pres       
+
+
+
+NmCl       
+
+
+--------------------------------------------------
+
+4
+your neck is like an ivory tower
+     your eyes are pools in heshbon, by the gate of bath-rabbim
+          your nose is like a tower of lebanon, which looks toward damascus.
+
+is         are        is         looks      
+pres       pres       pres       pres       
+
+צֹופֶ֖ה             
+
+NmCl       NmCl       NmCl       Ptcp       
+
+
+--------------------------------------------------
+
+5
+your head crowns you like carmel, and your flowing locks are like purple
+     a king is held captive in the tresses.
+
+crowns     are        is         held       
+pres       pres       pres       PTptc      
+
+אָס֥וּר             
+
+NmCl       NmCl       Ptcp       
+
+
+--------------------------------------------------
+
+6
+how beautiful and pleasant you are, o loved one, with all your delights!
+
+are        loved      
+pres       past       
+
+נָּעַ֔מְתְּ         יָּפִית֙            
+
+xQt0       WxQ0       Voct       
+
+
+--------------------------------------------------
+
+7
+your stature is like a palm tree, and your breasts are like its clusters.
+
+is         are        
+pres       pres       
+
+דָּֽמְתָ֣ה          
+
+XQtl       Ellp       
+
+
+--------------------------------------------------
+
+8
+i say i will climb the palm tree and lay hold of its fruit
+     oh may your breasts be like clusters of the vine, and the scent of your breath like apples,
+
+say        will       climb      lay        may        be         
+pres       mod        pres       past       mod        pres       
+
+יִֽהְיוּ            אֹֽחֲזָ֖ה           אֶעֱלֶ֣ה            אָמַ֨רְתִּי֙        
+
+ZQt0       ZYq0       ZYq0       WYqX       Ellp       
+
+
+--------------------------------------------------
+
+9
+and your mouth like the best wine
+     it goes down smoothly for my beloved, gliding over lips and teeth.
+
+goes       beloved    gliding    
+pres       PTptc      PSTptc     
+
+דֹּובֵ֖ב            הֹולֵ֥ךְ            
+
+Ellp       Ptcp       Ptcp       
+
+
+--------------------------------------------------
+
+10
+ i am my beloved's, and his desire is for me.
+
+am         is         
+pres       pres       
+
+
+
+NmCl       NmCl       
+
+
+--------------------------------------------------
+
+11
+ come, my beloved, let us go out into the fields and lodge in the villages;
+
+beloved    let        go         
+PTptc      pres       pres       
+
+נָלִ֖ינָה           נֵצֵ֣א              לְכָ֤ה              
+
+ZIm0       Voct       ZYq0       ZYq0       
+
+
+--------------------------------------------------
+
+12
+ let us go out early to the vineyards and see whether the vines have budded, whether the grape blossoms have opened and the pomegranates are in bloom
+     there i will give you my love.
+
+let        go         see        have       budded     have       opened     are        will       give       
+pres       pres       pres       pres       PTptc      pres       PTptc      pres       mod        pres       
+
+אֶתֵּ֥ן             הֵנֵ֖צוּ            פִּתַּ֣ח            פָּֽרְחָ֤ה          נִרְאֶ֞ה            נַשְׁכִּ֨ימָה֙       
+
+ZYq0       ZYq0       xQtX       ZQtX       ZQtX       xYq0       
+
+
+--------------------------------------------------
+
+13
+ the mandrakes give forth fragrance, and beside our doors are all choice fruits, new as well as old, which i have laid up for you, o my beloved.
+
+give       are        i          have       laid       o          beloved    
+pres       pres       pres       pres       PTptc      pres       PTptc      
+
+צָפַ֥נְתִּי         נָֽתְנוּ            
+
+XQtl       NmCl       Voct       ZQt0       
+
+
+--------------------------------------------------
+

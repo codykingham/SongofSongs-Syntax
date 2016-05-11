@@ -1,0 +1,195 @@
+1
+”oh that you were like a brother to me who nursed at my mother's breasts
+     if i found you outdoors, i would kiss you
+          no one would despise me, either.
+
+were       nursed     i          found      would      kiss       would      despise    
+past       past       PTptc      pres       mod        pres       mod        pres       
+
+יָב֥וּזוּ           אֶשָּׁ֣קְךָ֔         אֶֽמְצָאֲךָ֤        יֹונֵ֖ק             יִתֶּנְךָ֙          
+
+XYqt       Ptcp       ZYq0       ZYq0       xYq0       
+
+
+--------------------------------------------------
+
+2
+"i would lead you and bring you into the house of my mother, who used to instruct me
+     i would give you spiced wine to drink from the juice of my pomegranates.
+
+would      lead       bring      used       instruct   would      give       spiced     drink      
+mod        pres       pres       past       pres       mod        pres       PTptc      pres       
+
+אַשְׁקְךָ֙           תְּלַמְּדֵ֑נִי      אֲבִֽיאֲךָ֛         אֶנְהָֽגֲךָ֗        
+
+ZYq0       ZYq0       ZYq0       ZYq0       
+
+
+--------------------------------------------------
+
+3
+"let his left hand be under my head, and his right hand embrace me."
+
+let        be         embrace    
+pres       pres       pres       
+
+תְּחַבְּקֵֽנִי      
+
+NmCl       WXYq       
+
+
+--------------------------------------------------
+
+4
+"i want you to swear, o daughters of jerusalem, do not arouse or awaken my love, until she pleases."
+
+want       swear      do         arouse     awaken     pleases    
+pres       pres       pres       pres       pres       pres       
+
+תֶּחְפָּֽץ          תְּעֹֽרְר֛וּ        תָּעִ֧ירוּ          הִשְׁבַּ֥עְתִּי      
+
+ZQt0       Voct       xYq0       WxY0       xYq0       
+
+
+--------------------------------------------------
+
+5
+"who is this coming up from the wilderness, leaning on her beloved?" "beneath the apple tree i awakened you
+     there your mother was in labor with you, there she was in labor and gave you birth.
+
+is         coming     leaning    beloved    awakened   was        was        gave       
+pres       PSTptc     PSTptc     PTptc      past       past       past       past       
+
+יְלָדַֽתְךָ         חִבְּלָ֥ה           חִבְּלַ֣תְךָ        עֹֽורַרְתִּ֔יךָ     מִתְרַפֶּ֖קֶת       עֹלָה֙              
+
+Ptcp       Ptcp       xQt0       xQtX       xQtX       ZQt0       
+
+
+--------------------------------------------------
+
+6
+"put me like a seal over your heart, like a seal on your arm
+     for love is as strong as death, jealousy is as severe as sheol
+          its flashes are flashes of fire, the very flame of the lord.
+
+put        is         is         are        
+pres       pres       pres       pres       
+
+שִׂימֵ֨נִי           
+
+ZIm0       Ellp       AjCl       AjCl       NmCl       
+
+
+--------------------------------------------------
+
+7
+"many waters cannot quench love, nor will rivers overflow it
+     if a man were to give all the riches of his house for love, it would be utterly despised."
+
+can        quench     will       rivers     were       give       would      be         despised   
+mod        pres       mod        pres       past       pres       mod        pres       PTptc      
+
+יָב֥וּזוּ           בֹּ֖וז              יִתֵּ֨ן             יִשְׁטְפ֑וּהָ        כַבֹּ֣ות            יֽוּכְלוּ֙          
+
+XYqt       InfC       WXYq       xYqX       xYq0       
+
+
+--------------------------------------------------
+
+8
+"we have a little sister, and she has no breasts
+     what shall we do for our sister on the day when she is spoken for?
+
+have       has        shall      do         is         spoken     
+pres       pres       mod        pres       pres       PTptc      
+
+יְּדֻבַּר           נַּעֲשֶׂה֙           
+
+NmCl       NmCl       xYq0       xYq0       
+
+
+--------------------------------------------------
+
+9
+"if she is a wall, we shall build on her a battlement of silver
+     but if she is a door, we shall barricade her with planks of cedar."
+
+is         shall      build      is         shall      barricade  
+pres       mod        pres       pres       mod        pres       
+
+נָצ֥וּר             נִבְנֶ֥ה            
+
+NmCl       ZYq0       NmCl       ZYq0       
+
+
+--------------------------------------------------
+
+10
+ "i was a wall, and my breasts were like towers
+     then i became in his eyes as one who finds peace.
+
+was        were       became     finds      
+past       past       past       pres       
+
+מֹוצְאֵ֥ת           הָיִ֥יתִי           
+
+NmCl       NmCl       xQt0       
+
+
+--------------------------------------------------
+
+11
+ "solomon had a vineyard at baal-hamon
+     he entrusted the vineyard to caretakers
+          each one was to bring a thousand shekels of silver for its fruit.
+
+had        entrusted  was        bring      
+past       past       past       pres       
+
+יָבִ֥א              נֹּטְרִ֑ים          נָתַ֥ן              הָיָ֤ה              
+
+XQtl       ZQt0       XYqt       
+
+
+--------------------------------------------------
+
+12
+ "my very own vineyard is at my disposal
+     the thousand shekels are for you, solomon, and two hundred are for those who take care of its fruit."
+
+is         are        solomon    are        take       
+pres       pres       pres       pres       pres       
+
+נֹטְרִ֥ים           
+
+NmCl       NmCl       NmCl       Voct       NmCl       Ptcp       
+
+
+--------------------------------------------------
+
+13
+ "o you who sit in the gardens, my companions are listening for your voice-- let me hear it!"
+
+sit        are        listening  let        hear       
+pres       pres       PSTptc     pres       pres       
+
+הַשְׁמִיעִֽינִי      מַקְשִׁיבִ֥ים        יֹּושֶׁ֣בֶת          
+
+Voct       Ptcp       ZIm0       
+
+
+--------------------------------------------------
+
+14
+ "hurry, my beloved, and be like a gazelle or a young stag on the mountains of spices."
+
+beloved    be         
+PTptc      pres       
+
+דְמֵה               בְּרַ֣ח             
+
+ZIm0       Voct       WIm0       Ellp       
+
+
+--------------------------------------------------
+

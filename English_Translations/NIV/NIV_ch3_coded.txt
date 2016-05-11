@@ -1,0 +1,151 @@
+1
+all night long on my bed i looked for the one my heart loves
+     i looked for him but did not find him.
+
+looked     looked     did        find       
+past       past       past       pres       
+
+מְצָאתִֽיו          בִּקַּשְׁתִּ֖יו      אָהֲבָ֖ה            בִּקַּ֕שְׁתִּי       
+
+xQt0       xQtX       ZQt0       WxQ0       
+
+
+--------------------------------------------------
+
+2
+i will get up now and go about the city, through its streets and squares
+     i will search for the one my heart loves
+          so i looked for him but did not find him.
+
+will       get        go         will       search     looked     did        find       
+mod        pres       pres       mod        pres       past       past       pres       
+
+מְצָאתִֽיו          בִּקַּשְׁתִּ֖יו      אָהֲבָ֖ה            אֲבַקְשָׁ֕ה          אֲסֹובְבָ֣ה         אָק֨וּמָה           
+
+ZYq0       WYq0       ZYq0       xQtX       ZQt0       WxQ0       
+
+
+--------------------------------------------------
+
+3
+the watchmen found me as they made their rounds in the city
+     "have you seen the one my heart loves?"
+
+found      made       have       seen       loves      
+past       past       pres       PTptc      pres       
+
+רְאִיתֶֽם           אָהֲבָ֥ה            סֹּבְבִ֖ים          שֹּׁ֣מְרִ֔ים         מְצָא֨וּנִי֙        
+
+ZQtX       Ptcp       xQtX       xQt0       
+
+
+--------------------------------------------------
+
+4
+scarcely had i passed them when i found the one my heart loves
+     i held him and would not let him go till i had brought him to my mother's house, to the room of the one who conceived me.
+
+had        passed     found      held       would      let        go         had        brought    conceived  
+past       PTptc      past       past       mod        pres       pres       past       PTptc      past       
+
+הֹורָתִֽי           הֲבֵיאתִיו֙         אַרְפֶּ֔נּוּ        אֲחַזְתִּיו֙        אָהֲבָ֖ה            מָּצָ֔אתִי          עָבַ֣רְתִּי         
+
+NmCl       xQt0       xQt0       xQtX       ZQt0       WxY0       xQt0       
+
+
+--------------------------------------------------
+
+5
+daughters of jerusalem, i charge you by the gazelles and by the does of the field: do not arouse or awaken love until it so desires.
+
+does       do         arouse     awaken     desires    
+pres       pres       pres       pres       pres       
+
+תֶּחְפָּֽץ          תְּעֹֽורְר֛וּ       תָּעִ֧ירוּ          הִשְׁבַּ֨עְתִּי      
+
+ZQt0       Voct       xYq0       WxY0       xYq0       
+
+
+--------------------------------------------------
+
+6
+who is this coming up from the desert like a column of smoke, perfumed with myrrh and incense made from all the spices of the merchant?
+
+is         coming     perfumed   made       
+pres       PSTptc     PTptc      PTptc      
+
+רֹוכֵֽל             מְקֻטֶּ֤רֶת         עֹלָה֙              
+
+Ptcp       AjCl       
+
+
+--------------------------------------------------
+
+7
+look
+     it is solomon's carriage, escorted by sixty warriors, the noblest of israel,
+
+is         escorted   
+pres       PTptc      
+
+
+
+NmCl       NmCl       NmCl       
+
+
+--------------------------------------------------
+
+8
+all of them wearing the sword, all experienced in battle, each with his sword at his side, prepared for the terrors of the night.
+
+wearing    experiencedprepared   
+PSTptc     PTptc      past       
+
+מְלֻמְּדֵ֖י         
+
+NmCl       NmCl       CPen       NmCl       
+
+
+--------------------------------------------------
+
+9
+king solomon made for himself the carriage
+     he made it of wood from lebanon.
+
+king       made       made       
+PSTptc     past       past       
+
+עָ֤שָׂה              
+
+xQtX       
+
+
+--------------------------------------------------
+
+10
+ its posts he made of silver, its base of gold
+     its seat was upholstered with purple, its interior lovingly inlaid by the daughters of jerusalem.
+
+made       was        upholsteredinlaid     
+past       past       PTptc      PTptc      
+
+רָצ֣וּף             עָ֣שָׂה              
+
+xQt0       Ellp       Ellp       Ptcp       
+
+
+--------------------------------------------------
+
+11
+ come out, you daughters of zion, and look at king solomon wearing the crown, the crown with which his mother crowned him on the day of his wedding, the day his heart rejoiced.
+
+come       look       king       wearing    crowned    rejoiced   
+PTptc      pres       PSTptc     PSTptc     past       past       
+
+עִטְּרָה            רְאֶ֛ינָה           צְאֶ֧ינָה           
+
+ZIm0       WIm0       Voct       Ellp       xQtX       
+
+
+--------------------------------------------------
+

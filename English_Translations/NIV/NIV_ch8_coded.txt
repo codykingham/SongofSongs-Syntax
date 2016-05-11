@@ -1,0 +1,196 @@
+1
+if only you were to me like a brother, who was nursed at my mother's breasts
+     then, if i found you outside, i would kiss you, and no one would despise me.
+
+were       was        nursed     i          found      would      kiss       would      despise    
+past       past       PTptc      PTptc      pres       mod        pres       mod        pres       
+
+יָב֥וּזוּ           אֶשָּׁ֣קְךָ֔         אֶֽמְצָאֲךָ֤        יֹונֵ֖ק             יִתֶּנְךָ֙          
+
+XYqt       Ptcp       ZYq0       ZYq0       xYq0       
+
+
+--------------------------------------------------
+
+2
+i would lead you and bring you to my mother's house-- she who has taught me
+     i would give you spiced wine to drink, the nectar of my pomegranates.
+
+would      lead       bring      has        taught     would      give       spiced     drink      
+mod        pres       pres       pres       PTptc      mod        pres       PTptc      pres       
+
+אַשְׁקְךָ֙           תְּלַמְּדֵ֑נִי      אֲבִֽיאֲךָ֛         אֶנְהָֽגֲךָ֗        
+
+ZYq0       ZYq0       ZYq0       ZYq0       
+
+
+--------------------------------------------------
+
+3
+his left arm is under my head and his right arm embraces me.
+
+is         embraces   
+pres       pres       
+
+תְּחַבְּקֵֽנִי      
+
+NmCl       WXYq       
+
+
+--------------------------------------------------
+
+4
+daughters of jerusalem, i charge you: do not arouse or awaken love until it so desires.
+
+do         arouse     awaken     desires    
+pres       pres       pres       pres       
+
+תֶּחְפָּֽץ          תְּעֹֽרְר֛וּ        תָּעִ֧ירוּ          הִשְׁבַּ֥עְתִּי      
+
+ZQt0       Voct       xYq0       WxY0       xYq0       
+
+
+--------------------------------------------------
+
+5
+who is this coming up from the desert leaning on her lover
+     under the apple tree i roused you
+          there your mother conceived you, there she who was in labor gave you birth.
+
+is         coming     leaning    roused     conceived  was        gave       
+pres       PSTptc     PSTptc     past       past       past       past       
+
+יְלָדַֽתְךָ         חִבְּלָ֥ה           חִבְּלַ֣תְךָ        עֹֽורַרְתִּ֔יךָ     מִתְרַפֶּ֖קֶת       עֹלָה֙              
+
+Ptcp       Ptcp       xQt0       xQtX       xQtX       ZQt0       
+
+
+--------------------------------------------------
+
+6
+place me like a seal over your heart, like a seal on your arm
+     for love is as strong as death, its jealousy unyielding as the grave
+          it burns like blazing fire, like a mighty flame.
+
+is         burns      blazing    
+pres       pres       PSTptc     
+
+שִׂימֵ֨נִי           
+
+ZIm0       Ellp       AjCl       AjCl       NmCl       
+
+
+--------------------------------------------------
+
+7
+many waters cannot quench love
+     rivers cannot wash it away
+          if one were to give all the wealth of his house for love, it would be utterly scorned.
+
+can        quench     love       can        wash       were       give       would      be         scorned    
+mod        pres       pres       mod        pres       past       pres       mod        pres       PTptc      
+
+יָב֥וּזוּ           בֹּ֖וז              יִתֵּ֨ן             יִשְׁטְפ֑וּהָ        כַבֹּ֣ות            יֽוּכְלוּ֙          
+
+XYqt       InfC       WXYq       xYqX       xYq0       
+
+
+--------------------------------------------------
+
+8
+we have a young sister, and her breasts are not yet grown
+     what shall we do for our sister for the day she is spoken for?
+
+have       are        grown      shall      do         is         spoken     
+pres       pres       PTptc      mod        pres       pres       PTptc      
+
+יְּדֻבַּר           נַּעֲשֶׂה֙           
+
+NmCl       NmCl       xYq0       xYq0       
+
+
+--------------------------------------------------
+
+9
+if she is a wall, we will build towers of silver on her
+     if she is a door, we will enclose her with panels of cedar.
+
+is         will       build      is         will       enclose    
+pres       mod        pres       pres       mod        pres       
+
+נָצ֥וּר             נִבְנֶ֥ה            
+
+NmCl       ZYq0       NmCl       ZYq0       
+
+
+--------------------------------------------------
+
+10
+ i am a wall, and my breasts are like towers
+     thus i have become in his eyes like one bringing contentment.
+
+am         are        have       become     bringing   
+pres       pres       pres       PTptc      PSTptc     
+
+מֹוצְאֵ֥ת           הָיִ֥יתִי           
+
+NmCl       NmCl       xQt0       
+
+
+--------------------------------------------------
+
+11
+ solomon had a vineyard in baal hamon
+     he let out his vineyard to tenants
+          each was to bring for its fruit a thousand shekels of silver.
+
+had        let        was        bring      
+past       pres       past       pres       
+
+יָבִ֥א              נֹּטְרִ֑ים          נָתַ֥ן              הָיָ֤ה              
+
+XQtl       ZQt0       XYqt       
+
+
+--------------------------------------------------
+
+12
+ but my own vineyard is mine to give
+     the thousand shekels are for you, o solomon, and two hundred are for those who tend its fruit.
+
+is         give       are        are        tend       
+pres       pres       pres       pres       pres       
+
+נֹטְרִ֥ים           
+
+NmCl       NmCl       NmCl       Voct       NmCl       Ptcp       
+
+
+--------------------------------------------------
+
+13
+ you who dwell in the gardens with friends in attendance, let me hear your voice!
+
+dwell      let        hear       
+pres       pres       pres       
+
+הַשְׁמִיעִֽינִי      מַקְשִׁיבִ֥ים        יֹּושֶׁ֣בֶת          
+
+Voct       Ptcp       ZIm0       
+
+
+--------------------------------------------------
+
+14
+ come away, my lover, and be like a gazelle or like a young stag on the spice-laden mountains.
+
+come       be         
+pres       pres       
+
+דְמֵה               בְּרַ֣ח             
+
+ZIm0       Voct       WIm0       Ellp       
+
+
+--------------------------------------------------
+

@@ -1,0 +1,174 @@
+1
+”where has your beloved gone, o most beautiful among women
+     where has your beloved turned, that we may seek him with you?"
+
+has        beloved    gone       o          has        beloved    turned     may        seek       
+pres       PTptc      PTptc      pres       pres       PTptc      past       mod        pres       
+
+נְבַקְשֶׁ֖נּוּ       פָּנָ֣ה             הָלַ֣ךְ             
+
+xQtX       Voct       xQtX       WYq0       
+
+
+--------------------------------------------------
+
+2
+"my beloved has gone down to his garden, to the beds of balsam, to pasture his flock in the gardens and gather lilies.
+
+has        gone       pasture    
+pres       PTptc      pres       
+
+לְקֹ֖ט              רְעֹות֙             יָרַ֣ד              
+
+XQtl       InfC       InfC       
+
+
+--------------------------------------------------
+
+3
+"i am my beloved's and my beloved is mine, he who pastures his flock among the lilies."
+
+am         is         pastures   
+pres       pres       pres       
+
+רֹעֶ֖ה              
+
+NmCl       NmCl       Ptcp       
+
+
+--------------------------------------------------
+
+4
+"you are as beautiful as tirzah, my darling, as lovely as jerusalem, as awesome as an army with banners.
+
+are        
+pres       
+
+נִּדְגָּלֹֽות       
+
+AjCl       Voct       AjCl       AjCl       
+
+
+--------------------------------------------------
+
+5
+"turn your eyes away from me, for they have confused me
+     your hair is like a flock of goats that have descended from gilead.
+
+turn       have       confused   is         have       descended  
+pres       pres       PTptc      pres       pres       PTptc      
+
+גָּלְשׁ֖וּ           הִרְהִיבֻ֑נִי       הָסֵ֤בִּי           
+
+ZIm0       XQtl       NmCl       xQt0       
+
+
+--------------------------------------------------
+
+6
+"your teeth are like a flock of ewes which have come up from their washing, all of which bear twins, and not one among them has lost her young.
+
+are        have       come       has        lost       
+pres       pres       PTptc      pres       PTptc      
+
+מַתְאִימֹ֔ות        עָל֖וּ              
+
+NmCl       xQt0       Ptcp       AjCl       
+
+
+--------------------------------------------------
+
+7
+"your temples are like a slice of a pomegranate behind your veil.
+
+are        
+pres       
+
+
+
+NmCl       
+
+
+--------------------------------------------------
+
+8
+"there are sixty queens and eighty concubines, and maidens without number;
+
+are        
+pres       
+
+
+
+NmCl       NmCl       NmCl       NmCl       
+
+
+--------------------------------------------------
+
+9
+but my dove, my perfect one, is unique: she is her mother's only daughter
+     she is the pure child of the one who bore her
+          the maidens saw her and called her blessed, the queens and the concubines also, and they praised her, saying,
+
+is         is         is         bore       saw        called     blessed    praised    saying     
+pres       pres       pres       past       past       past       past       past       PSTptc     
+
+יְהַלְלֽוּהָ        יְאַשְּׁר֔וּהָ       רָא֤וּהָ            יֹֽולַדְתָּ֑הּ      
+
+NmCl       NmCl       AjCl       ZQtX       Way0       Ellp       Way0       
+
+
+--------------------------------------------------
+
+10
+ 'who is this that grows like the dawn, as beautiful as the full moon, as pure as the sun, as awesome as an army with banners?'
+
+is         grows      
+pres       pres       
+
+נִּדְגָּלֹֽות       נִּשְׁקָפָ֖ה         
+
+AjCl       Ptcp       AjCl       AjCl       
+
+
+--------------------------------------------------
+
+11
+ "i went down to the orchard of nut trees to see the blossoms of the valley, to see whether the vine had budded or the pomegranates had bloomed.
+
+went       see        see        had        budded     had        bloomed    
+past       pres       pres       past       PTptc      past       PTptc      
+
+הֵנֵ֖צוּ            פָֽרְחָ֣ה           רְאֹות֙             רְאֹ֖ות             יָרַ֔דְתִּי         
+
+xQt0       InfC       InfC       xQtX       ZQtX       
+
+
+--------------------------------------------------
+
+12
+ "before i was aware, my soul set me over the chariots of my noble people."
+
+was        set        
+past       PTptc      
+
+שָׂמַ֔תְנִי          יָדַ֔עְתִּי         
+
+xQt0       XQtl       
+
+
+--------------------------------------------------
+
+13
+ "come back, come back, o shulammite
+     come back, come back, that we may gaze at you!" "why should you gaze at the shulammite, as at the dance of the two companies?
+
+come       come       shulammite come       come       may        gaze       should     gaze       
+pres       pres       pres       PTptc      pres       mod        pres       mod        pres       
+
+תֶּחֱזוּ֙           נֶחֱזֶה             שׁ֖וּבִי             שׁ֥וּבִי             שׁ֨וּבִי֙            שׁ֤וּבִי             
+
+ZIm0       ZIm0       Voct       ZIm0       ZIm0       WYq0       xYq0       
+
+
+--------------------------------------------------
+

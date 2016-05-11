@@ -1,0 +1,232 @@
+1
+i have come into my garden, my sister, my bride
+     i have gathered my myrrh with my spice
+          i have eaten my honeycomb and my honey
+               i have drunk my wine and my milk
+                    eat, o friends, and drink
+                         drink your fill, o lovers.
+
+have       come       have       gathered   have       eaten      have       drunk      drink      drink      
+pres       PTptc      pres       PTptc      pres       PTptc      pres       PTptc      pres       pres       
+
+שִׁכְר֖וּ            שְׁת֥וּ              אִכְל֣וּ            שָׁתִ֥יתִי           אָכַ֤לְתִּי         אָרִ֤יתִי           בָּ֣אתִי            
+
+ZQt0       Voct       ZQt0       ZQt0       ZQt0       ZIm0       Voct       ZIm0       WIm0       Voct       
+
+
+--------------------------------------------------
+
+2
+i slept but my heart was awake
+     listen
+          my lover is knocking: "open to me, my sister, my darling, my dove, my flawless one
+               my head is drenched with dew, my hair with the dampness of the night."
+
+slept      was        is         knocking   open       is         drenched   
+past       past       pres       PSTptc     pres       pres       PTptc      
+
+נִמְלָא             פִּתְחִי            דֹופֵ֗ק             עֵ֑ר                
+
+AjCl       Ptcp       NmCl       Ptcp       ZIm0       Voct       Ptcp       NmCl       
+
+
+--------------------------------------------------
+
+3
+i have taken off my robe-- must i put it on again
+     i have washed my feet-- must i soil them again?
+
+have       taken      must       i          put        have       washed     must       i          soil       
+pres       PTptc      mod        pres       past       pres       PTptc      mod        pres       pres       
+
+אֲטַנְּפֵֽם         רָחַ֥צְתִּי         אֶלְבָּשֶׁ֑נָּה      פָּשַׁ֨טְתִּי֙       
+
+ZQt0       xYq0       ZQt0       xYq0       
+
+
+--------------------------------------------------
+
+4
+my lover thrust his hand through the latch-opening
+     my heart began to pound for him.
+
+began      
+past       
+
+הָמ֥וּ              שָׁלַ֤ח              
+
+XQtl       WXQt       
+
+
+--------------------------------------------------
+
+5
+i arose to open for my lover, and my hands dripped with myrrh, my fingers with flowing myrrh, on the handles of the lock.
+
+arose      open       dripped    flowing    
+past       pres       PTptc      PSTptc     
+
+עֹבֵ֔ר              נָֽטְפוּ            פְתֹּ֣חַ            קַ֥מְתִּֽי          
+
+ZQtX       InfC       WXQt       Ellp       
+
+
+--------------------------------------------------
+
+6
+i opened for my lover, but my lover had left
+     he was gone
+          my heart sank at his departure
+               i looked for him but did not find him
+                    i called him but he did not answer.
+
+opened     had        left       was        gone       looked     did        find       called     did        answer     
+past       past       PTptc      past       PTptc      past       past       pres       past       past       pres       
+
+עָנָֽנִי            קְרָאתִ֖יו          מְצָאתִ֔יהוּ        בִּקַּשְׁתִּ֨יהוּ֙   דַבְּרֹ֔ו           יָֽצְאָ֣ה           עָבָ֑ר              חָמַ֣ק              פָּתַ֤חְתִּֽי       
+
+ZQtX       WXQt       ZQt0       XQtl       InfC       ZQt0       WxQ0       ZQt0       WxQ0       
+
+
+--------------------------------------------------
+
+7
+the watchmen found me as they made their rounds in the city
+     they beat me, they bruised me
+          they took away my cloak, those watchmen of the walls!
+
+found      made       beat       bruised    took       
+past       past       pres       past       past       
+
+שֹׁמְרֵ֖י            נָשְׂא֤וּ            פְצָע֑וּנִי         הִכּ֣וּנִי          סֹּבְבִ֥ים          שֹּׁמְרִ֛ים          מְצָאֻ֧נִי          
+
+ZQtX       Ptcp       ZQt0       ZQt0       ZQtX       
+
+
+--------------------------------------------------
+
+8
+o daughters of jerusalem, i charge you-- if you find my lover, what will you tell him
+     tell him i am faint with love.
+
+find       will       tell       tell       i          am         
+pres       mod        pres       pres       pres       pres       
+
+חֹולַ֥ת             תַּגִּ֣ידוּ         תִּמְצְאוּ֙         הִשְׁבַּ֥עְתִּי      
+
+ZQt0       Voct       xYq0       xYq0       AjCl       
+
+
+--------------------------------------------------
+
+9
+how is your beloved better than others, most beautiful of women
+     how is your beloved better than others, that you charge us so?
+
+is         is         charge     
+pres       pres       pres       
+
+הִשְׁבַּעְתָּֽנוּ    
+
+NmCl       Voct       NmCl       xQt0       
+
+
+--------------------------------------------------
+
+10
+ my lover is radiant and ruddy, outstanding among ten thousand.
+
+is         
+pres       
+
+דָּג֖וּל            
+
+AjCl       Ptcp       
+
+
+--------------------------------------------------
+
+11
+ his head is purest gold
+     his hair is wavy and black as a raven.
+
+is         is         
+pres       pres       
+
+
+
+NmCl       NmCl       AjCl       
+
+
+--------------------------------------------------
+
+12
+ his eyes are like doves by the water streams, washed in milk, mounted like jewels.
+
+are        washed     mounted    
+pres       PTptc      PTptc      
+
+יֹשְׁבֹ֖ות           רֹֽחֲצֹות֙          
+
+NmCl       Ptcp       Ptcp       
+
+
+--------------------------------------------------
+
+13
+ his cheeks are like beds of spice yielding perfume
+     his lips are like lilies dripping with myrrh.
+
+are        are        dripping   
+pres       pres       PSTptc     
+
+עֹבֵֽר              נֹטְפֹ֖ות           
+
+NmCl       NmCl       NmCl       Ptcp       
+
+
+--------------------------------------------------
+
+14
+ his arms are rods of gold set with chrysolite
+     his body is like polished ivory decorated with sapphires.
+
+are        set        is         decorated  
+pres       PTptc      pres       PTptc      
+
+מְעֻלֶּ֖פֶת         מְמֻלָּאִ֖ים        
+
+NmCl       Ptcp       NmCl       Ptcp       
+
+
+--------------------------------------------------
+
+15
+ his legs are pillars of marble set on bases of pure gold
+     his appearance is like lebanon, choice as its cedars.
+
+are        set        is         
+pres       PTptc      pres       
+
+בָּח֖וּר            מְיֻסָּדִ֖ים        
+
+NmCl       Ptcp       NmCl       Ptcp       
+
+
+--------------------------------------------------
+
+16
+ his mouth is sweetness itself
+     he is altogether lovely
+          this is my lover, this my friend, o daughters of jerusalem.
+
+is         is         is         
+pres       pres       pres       
+
+
+
+NmCl       NmCl       NmCl       NmCl       Voct       
+
+
+--------------------------------------------------
+

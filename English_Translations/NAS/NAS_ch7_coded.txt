@@ -1,0 +1,176 @@
+1
+”how beautiful are your feet in sandals, o prince's daughter
+     the curves of your hips are like jewels, the work of the hands of an artist.
+
+are        are        
+pres       pres       
+
+יָּפ֧וּ             
+
+xQtX       Voct       NmCl       
+
+
+--------------------------------------------------
+
+2
+"your navel is like a round goblet which never lacks mixed wine
+     your belly is like a heap of wheat fenced about with lilies.
+
+is         lacks      is         fenced     
+pres       pres       pres       PTptc      
+
+סוּגָ֖ה             יֶחְסַ֖ר            
+
+NmCl       xYqX       NmCl       Ptcp       
+
+
+--------------------------------------------------
+
+3
+"your two breasts are like two fawns, twins of a gazelle.
+
+are        
+pres       
+
+
+
+NmCl       
+
+
+--------------------------------------------------
+
+4
+"your neck is like a tower of ivory, your eyes like the pools in heshbon by the gate of bath-rabbim
+     your nose is like the tower of lebanon, which faces toward damascus.
+
+is         is         faces      
+pres       pres       pres       
+
+צֹופֶ֖ה             
+
+NmCl       NmCl       NmCl       Ptcp       
+
+
+--------------------------------------------------
+
+5
+"your head crowns you like carmel, and the flowing locks of your head are like purple threads
+     the king is captivated by your tresses.
+
+crowns     flowing    are        is         captivated 
+pres       PSTptc     pres       pres       PTptc      
+
+אָס֥וּר             
+
+NmCl       NmCl       Ptcp       
+
+
+--------------------------------------------------
+
+6
+"how beautiful and how delightful you are, my love, with all your charms!
+
+are        
+pres       
+
+נָּעַ֔מְתְּ         יָּפִית֙            
+
+xQt0       WxQ0       Voct       
+
+
+--------------------------------------------------
+
+7
+"your stature is like a palm tree, and your breasts are like its clusters.
+
+is         are        
+pres       pres       
+
+דָּֽמְתָ֣ה          
+
+XQtl       Ellp       
+
+
+--------------------------------------------------
+
+8
+"i said, 'i will climb the palm tree, i will take hold of its fruit stalks.' oh, may your breasts be like clusters of the vine, and the fragrance of your breath like apples,
+
+said       will       climb      will       take       may        be         
+past       mod        pres       mod        pres       mod        pres       
+
+יִֽהְיוּ            אֹֽחֲזָ֖ה           אֶעֱלֶ֣ה            אָמַ֨רְתִּי֙        
+
+ZQt0       ZYq0       ZYq0       WYqX       Ellp       
+
+
+--------------------------------------------------
+
+9
+and your mouth like the best wine!" "it goes down smoothly for my beloved, flowing gently through the lips of those who fall asleep.
+
+goes       flowing    fall       
+pres       PSTptc     pres       
+
+דֹּובֵ֖ב            הֹולֵ֥ךְ            
+
+Ellp       Ptcp       Ptcp       
+
+
+--------------------------------------------------
+
+10
+ "i am my beloved's, and his desire is for me.
+
+am         is         
+pres       pres       
+
+
+
+NmCl       NmCl       
+
+
+--------------------------------------------------
+
+11
+ "come, my beloved, let us go out into the country, let us spend the night in the villages.
+
+beloved    let        go         let        spend      
+PTptc      pres       pres       pres       pres       
+
+נָלִ֖ינָה           נֵצֵ֣א              לְכָ֤ה              
+
+ZIm0       Voct       ZYq0       ZYq0       
+
+
+--------------------------------------------------
+
+12
+ "let us rise early and go to the vineyards
+     let us see whether the vine has budded and its blossoms have opened, and whether the pomegranates have bloomed
+          there i will give you my love.
+
+let        rise       go         let        see        has        budded     have       opened     have       bloomed    will       give       
+pres       pres       pres       pres       pres       pres       PTptc      pres       PTptc      pres       PTptc      mod        pres       
+
+אֶתֵּ֥ן             הֵנֵ֖צוּ            פִּתַּ֣ח            פָּֽרְחָ֤ה          נִרְאֶ֞ה            נַשְׁכִּ֨ימָה֙       
+
+ZYq0       ZYq0       xQtX       ZQtX       ZQtX       xYq0       
+
+
+--------------------------------------------------
+
+13
+ "the mandrakes have given forth fragrance
+     and over our doors are all choice fruits, both new and old, which i have saved up for you, my beloved.
+
+have       given      are        i          have       saved      beloved    
+pres       PTptc      pres       pres       pres       PTptc      PTptc      
+
+צָפַ֥נְתִּי         נָֽתְנוּ            
+
+XQtl       NmCl       Voct       ZQt0       
+
+
+--------------------------------------------------
+

@@ -1,0 +1,181 @@
+1
+where has your lover gone, o woman of rare beauty
+     which way did he turn so we can help you find him
+          young woman
+
+has        gone       did        turn       can        help       find       
+pres       PTptc      past       pres       mod        pres       pres       
+
+נְבַקְשֶׁ֖נּוּ       פָּנָ֣ה             הָלַ֣ךְ             
+
+xQtX       Voct       xQtX       WYq0       
+
+
+--------------------------------------------------
+
+2
+my lover has gone down to his garden, to his spice beds, to browse in the gardens and gather the lilies.
+
+has        gone       browse     gather     
+pres       PTptc      pres       pres       
+
+לְקֹ֖ט              רְעֹות֙             יָרַ֣ד              
+
+XQtl       InfC       InfC       
+
+
+--------------------------------------------------
+
+3
+i am my lover's, and my lover is mine
+     he browses among the lilies
+          young man
+
+am         is         browses    
+pres       pres       pres       
+
+רֹעֶ֖ה              
+
+NmCl       NmCl       Ptcp       
+
+
+--------------------------------------------------
+
+4
+you are beautiful, my darling, like the lovely city of tirzah
+     yes, as beautiful as jerusalem, as majestic as an army with billowing banners.
+
+are        billowing  
+pres       PSTptc     
+
+נִּדְגָּלֹֽות       
+
+AjCl       Voct       AjCl       AjCl       
+
+
+--------------------------------------------------
+
+5
+turn your eyes away, for they overpower me
+     your hair falls in waves, like a flock of goats winding down the slopes of gilead.
+
+turn       overpower  falls      winding    
+pres       pres       pres       PSTptc     
+
+גָּלְשׁ֖וּ           הִרְהִיבֻ֑נִי       הָסֵ֤בִּי           
+
+ZIm0       XQtl       NmCl       xQt0       
+
+
+--------------------------------------------------
+
+6
+your teeth are as white as sheep that are freshly washed
+     your smile is flawless, each tooth matched with its twin.
+
+are        are        washed     is         matched    
+pres       pres       PTptc      pres       past       
+
+מַתְאִימֹ֔ות        עָל֖וּ              
+
+NmCl       xQt0       Ptcp       AjCl       
+
+
+--------------------------------------------------
+
+7
+your cheeks are like rosy pomegranates behind your veil.
+
+are        
+pres       
+
+
+
+NmCl       
+
+
+--------------------------------------------------
+
+8
+even among sixty queens and eighty concubines and countless young women,
+
+
+
+
+
+
+NmCl       NmCl       NmCl       NmCl       
+
+
+--------------------------------------------------
+
+9
+i would still choose my dove, my perfect one-- the favorite of her mother, dearly loved by the one who bore her
+     the young women see her and praise her
+          even queens and royal concubines sing her praises:
+
+would      choose     loved      bore       see        praise     sing       
+mod        pres       PTptc      past       pres       pres       PSTptc     
+
+יְהַלְלֽוּהָ        יְאַשְּׁר֔וּהָ       רָא֤וּהָ            יֹֽולַדְתָּ֑הּ      
+
+NmCl       NmCl       AjCl       ZQtX       Way0       Ellp       Way0       
+
+
+--------------------------------------------------
+
+10
+ "who is this, arising like the dawn, as fair as the moon, as bright as the sun, as majestic as an army with billowing banners?"
+
+is         arising    billowing  
+pres       PSTptc     PSTptc     
+
+נִּדְגָּלֹֽות       נִּשְׁקָפָ֖ה         
+
+AjCl       Ptcp       AjCl       AjCl       
+
+
+--------------------------------------------------
+
+11
+ i went down to the grove of walnut trees and out to the valley to see the new spring growth, to see whether the grapevines had budded or the pomegranates were in bloom.
+
+went       see        see        had        budded     were       
+past       pres       pres       past       PTptc      past       
+
+הֵנֵ֖צוּ            פָֽרְחָ֣ה           רְאֹות֙             רְאֹ֖ות             יָרַ֔דְתִּי         
+
+xQt0       InfC       InfC       xQtX       ZQtX       
+
+
+--------------------------------------------------
+
+12
+ before i realized it, i found myself in the royal chariot with my beloved
+     young women of jerusalem
+
+realized   i          found      
+past       pres       PTptc      
+
+שָׂמַ֔תְנִי          יָדַ֔עְתִּי         
+
+xQt0       XQtl       
+
+
+--------------------------------------------------
+
+13
+ return, return to us, o maid of shulam
+     come back, come back, that we may see you again
+          young man why do you stare at this young woman of shulam, as she moves so gracefully between two lines of dancers?
+
+come       come       may        see        do         stare      moves      
+PTptc      pres       mod        pres       pres       pres       pres       
+
+תֶּחֱזוּ֙           נֶחֱזֶה             שׁ֖וּבִי             שׁ֥וּבִי             שׁ֨וּבִי֙            שׁ֤וּבִי             
+
+ZIm0       ZIm0       Voct       ZIm0       ZIm0       WYq0       xYq0       
+
+
+--------------------------------------------------
+

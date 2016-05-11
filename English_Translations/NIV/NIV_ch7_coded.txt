@@ -1,0 +1,177 @@
+1
+how beautiful your sandaled feet, o prince's daughter
+     your graceful legs are like jewels, the work of a craftsman's hands.
+
+o          are        
+pres       pres       
+
+יָּפ֧וּ             
+
+xQtX       Voct       NmCl       
+
+
+--------------------------------------------------
+
+2
+your navel is a rounded goblet that never lacks blended wine
+     your waist is a mound of wheat encircled by lilies.
+
+is         lacks      blended    is         encircled  
+pres       pres       past       pres       PTptc      
+
+סוּגָ֖ה             יֶחְסַ֖ר            
+
+NmCl       xYqX       NmCl       Ptcp       
+
+
+--------------------------------------------------
+
+3
+your breasts are like two fawns, twins of a gazelle.
+
+are        
+pres       
+
+
+
+NmCl       
+
+
+--------------------------------------------------
+
+4
+your neck is like an ivory tower
+     your eyes are the pools of heshbon by the gate of bath rabbim
+          your nose is like the tower of lebanon looking toward damascus.
+
+is         are        is         looking    
+pres       pres       pres       PSTptc     
+
+צֹופֶ֖ה             
+
+NmCl       NmCl       NmCl       Ptcp       
+
+
+--------------------------------------------------
+
+5
+your head crowns you like mount carmel
+     your hair is like royal tapestry
+          the king is held captive by its tresses.
+
+crowns     is         is         held       
+pres       pres       pres       PTptc      
+
+אָס֥וּר             
+
+NmCl       NmCl       Ptcp       
+
+
+--------------------------------------------------
+
+6
+how beautiful you are and how pleasing, o love, with your delights!
+
+are        
+pres       
+
+נָּעַ֔מְתְּ         יָּפִית֙            
+
+xQt0       WxQ0       Voct       
+
+
+--------------------------------------------------
+
+7
+your stature is like that of the palm, and your breasts like clusters of fruit.
+
+is         
+pres       
+
+דָּֽמְתָ֣ה          
+
+XQtl       Ellp       
+
+
+--------------------------------------------------
+
+8
+i said, "i will climb the palm tree
+     i will take hold of its fruit." may your breasts be like the clusters of the vine, the fragrance of your breath like apples,
+
+said       will       climb      will       take       may        be         
+past       mod        pres       mod        pres       mod        pres       
+
+יִֽהְיוּ            אֹֽחֲזָ֖ה           אֶעֱלֶ֣ה            אָמַ֨רְתִּי֙        
+
+ZQt0       ZYq0       ZYq0       WYqX       Ellp       
+
+
+--------------------------------------------------
+
+9
+and your mouth like the best wine
+     may the wine go straight to my lover, flowing gently over lips and teeth.
+
+may        go         flowing    
+mod        pres       PSTptc     
+
+דֹּובֵ֖ב            הֹולֵ֥ךְ            
+
+Ellp       Ptcp       Ptcp       
+
+
+--------------------------------------------------
+
+10
+ i belong to my lover, and his desire is for me.
+
+belong     is         
+pres       pres       
+
+
+
+NmCl       NmCl       
+
+
+--------------------------------------------------
+
+11
+ come, my lover, let us go to the countryside, let us spend the night in the villages.
+
+let        go         let        spend      
+pres       pres       pres       pres       
+
+נָלִ֖ינָה           נֵצֵ֣א              לְכָ֤ה              
+
+ZIm0       Voct       ZYq0       ZYq0       
+
+
+--------------------------------------------------
+
+12
+ let us go early to the vineyards to see if the vines have budded, if their blossoms have opened, and if the pomegranates are in bloom-- there i will give you my love.
+
+let        go         see        have       budded     have       opened     are        i          will       give       
+pres       pres       pres       pres       PTptc      pres       PTptc      pres       pres       mod        pres       
+
+אֶתֵּ֥ן             הֵנֵ֖צוּ            פִּתַּ֣ח            פָּֽרְחָ֤ה          נִרְאֶ֞ה            נַשְׁכִּ֨ימָה֙       
+
+ZYq0       ZYq0       xQtX       ZQtX       ZQtX       xYq0       
+
+
+--------------------------------------------------
+
+13
+ the mandrakes send out their fragrance, and at our door is every delicacy, both new and old, that i have stored up for you, my lover.
+
+send       is         have       stored     
+pres       pres       pres       PTptc      
+
+צָפַ֥נְתִּי         נָֽתְנוּ            
+
+XQtl       NmCl       Voct       ZQt0       
+
+
+--------------------------------------------------
+

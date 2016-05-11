@@ -1,0 +1,237 @@
+1
+i am the spring crocus blooming on the sharon plain, the lily of the valley
+     young man
+
+am         blooming   
+pres       PSTptc     
+
+
+
+NmCl       NmCl       
+
+
+--------------------------------------------------
+
+2
+like a lily among thistles is my darling among young women
+     young woman
+
+is         
+pres       
+
+
+
+CPen       NmCl       
+
+
+--------------------------------------------------
+
+3
+like the finest apple tree in the orchard is my lover among other young men
+     i sit in his delightful shade and taste his delicious fruit.
+
+is         taste      
+pres       pres       
+
+יָשַׁ֔בְתִּי         חִמַּ֣דְתִּי        
+
+NmCl       NmCl       xQt0       WQt0       AjCl       
+
+
+--------------------------------------------------
+
+4
+he escorts me to the banquet hall
+     it's obvious how much he loves me.
+
+escorts    's         loves      
+pres       pres       pres       
+
+הֱבִיאַ֨נִי֙        
+
+ZQt0       NmCl       
+
+
+--------------------------------------------------
+
+5
+strengthen me with raisin cakes, refresh me with apples, for i am weak with love.
+
+strengthen refresh    am         
+pres       pres       pres       
+
+חֹולַ֥ת             רַפְּד֖וּנִי        סַמְּכ֨וּנִי֙       
+
+ZIm0       ZIm0       AjCl       
+
+
+--------------------------------------------------
+
+6
+his left arm is under my head, and his right arm embraces me.
+
+is         embraces   
+pres       pres       
+
+תְּחַבְּקֵֽנִי      
+
+NmCl       WXYq       
+
+
+--------------------------------------------------
+
+7
+promise me, o women of jerusalem, by the gazelles and wild deer, not to awaken love until the time is right.
+
+promise    awaken     love       is         
+pres       pres       pres       pres       
+
+תֶּחְפָּֽץ          תְּעֹֽורְר֛וּ       תָּעִ֧ירוּ          הִשְׁבַּ֨עְתִּי      
+
+ZQt0       Voct       xYq0       WxY0       xYq0       
+
+
+--------------------------------------------------
+
+8
+ah, i hear my lover coming
+     he is leaping over the mountains, bounding over the hills.
+
+hear       coming     is         leaping    bounding   
+pres       PSTptc     pres       PSTptc     PSTptc     
+
+מְקַפֵּ֖ץ           מְדַלֵּג֙           בָּ֑א               
+
+NmCl       Ptcp       Ptcp       Ptcp       
+
+
+--------------------------------------------------
+
+9
+my lover is like a swift gazelle or a young stag
+     look, there he is behind the wall, looking through the window, peering into the room.
+
+is         is         looking    peering    
+pres       pres       PSTptc     PSTptc     
+
+מֵצִ֖יץ             מַשְׁגִּ֨יחַ֙        עֹומֵד֙             דֹּומֶ֤ה            
+
+Ptcp       Ptcp       Ptcp       Ptcp       
+
+
+--------------------------------------------------
+
+10
+ my lover said to me, "rise up, my darling
+     come away with me, my fair one!
+
+said       rise       come       
+past       pres       pres       
+
+לְכִי               ק֥וּמִי             אָ֣מַר              עָנָ֥ה              
+
+ZQtX       WQt0       ZIm0       Voct       WIm0       
+
+
+--------------------------------------------------
+
+11
+ look, the winter is past, and the rains are over and gone.
+
+is         are        gone       
+pres       pres       PTptc      
+
+הָלַ֥ךְ             חָלַ֖ף              עָבָ֑ר              
+
+XQtl       XQtl       ZQt0       
+
+
+--------------------------------------------------
+
+12
+ the flowers are springing up, the season of singing birds has come, and the cooing of turtledoves fills the air.
+
+are        springing  singing    has        come       fills      
+pres       PSTptc     PSTptc     pres       PTptc      pres       
+
+נִשְׁמַ֥ע            הִגִּ֑יעַ           נִרְא֣וּ            
+
+XQtl       XQtl       WXQt       
+
+
+--------------------------------------------------
+
+13
+ the fig trees are forming young fruit, and the fragrant grapevines are blossoming
+     rise up, my darling
+          come away with me, my fair one!" young man
+
+are        forming    are        blossoming come       
+pres       PSTptc     pres       PSTptc     pres       
+
+לְכִי               ק֥וּמִי             נָ֣תְנוּ            חָֽנְטָ֣ה           
+
+XQtl       WXQt       ZIm0       Voct       WIm0       
+
+
+--------------------------------------------------
+
+14
+ my dove is hiding behind the rocks, behind an outcrop on the cliff
+     let me see your face
+          let me hear your voice
+               for your voice is pleasant, and your face is lovely
+                    young women of jerusalem
+
+is         hiding     let        see        let        hear       is         is         
+pres       PSTptc     pres       pres       pres       pres       pres       pres       
+
+הַשְׁמִיעִ֖ינִי      הַרְאִ֨ינִי֙        
+
+Voct       ZIm0       ZIm0       AjCl       AjCl       
+
+
+--------------------------------------------------
+
+15
+ catch all the foxes, those little foxes, before they ruin the vineyard of love, for the grapevines are blossoming
+     young woman
+
+catch      ruin       are        blossoming 
+pres       pres       pres       PSTptc     
+
+מְחַבְּלִ֣ים        אֶֽחֱזוּ            
+
+ZIm0       Ptcp       NmCl       
+
+
+--------------------------------------------------
+
+16
+ my lover is mine, and i am his
+     he browses among the lilies.
+
+is         i          am         browses    
+pres       pres       pres       pres       
+
+רֹעֶ֖ה              
+
+NmCl       NmCl       Ptcp       
+
+
+--------------------------------------------------
+
+17
+ before the dawn breezes blow and the night shadows flee, return to me, my love, like a gazelle or a young stag on the rugged mountains
+     young woman
+
+breezes    shadows    
+pres       pres       
+
+דְּמֵה              סֹב֩                נָ֖סוּ              יָּפ֨וּחַ֙          
+
+xYqX       WQtX       ZIm0       ZIm0       Voct       Ellp       
+
+
+--------------------------------------------------
+

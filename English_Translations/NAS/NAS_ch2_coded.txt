@@ -1,0 +1,229 @@
+1
+“i am the rose of sharon, the lily of the valleys."
+
+am         rose       
+pres       past       
+
+
+
+NmCl       NmCl       
+
+
+--------------------------------------------------
+
+2
+"like a lily among the thorns, so is my darling among the maidens."
+
+is         
+pres       
+
+
+
+CPen       NmCl       
+
+
+--------------------------------------------------
+
+3
+"like an apple tree among the trees of the forest, so is my beloved among the young men
+     in his shade i took great delight and sat down, and his fruit was sweet to my taste.
+
+is         took       sat        was        
+pres       past       past       past       
+
+יָשַׁ֔בְתִּי         חִמַּ֣דְתִּי        
+
+NmCl       NmCl       xQt0       WQt0       AjCl       
+
+
+--------------------------------------------------
+
+4
+"he has brought me to his banquet hall, and his banner over me is love.
+
+has        brought    is         
+pres       PTptc      pres       
+
+הֱבִיאַ֨נִי֙        
+
+ZQt0       NmCl       
+
+
+--------------------------------------------------
+
+5
+"sustain me with raisin cakes, refresh me with apples, because i am lovesick.
+
+sustain    refresh    am         
+pres       pres       pres       
+
+חֹולַ֥ת             רַפְּד֖וּנִי        סַמְּכ֨וּנִי֙       
+
+ZIm0       ZIm0       AjCl       
+
+
+--------------------------------------------------
+
+6
+"let his left hand be under my head and his right hand embrace me."
+
+let        be         embrace    
+pres       pres       pres       
+
+תְּחַבְּקֵֽנִי      
+
+NmCl       WXYq       
+
+
+--------------------------------------------------
+
+7
+"i adjure you, o daughters of jerusalem, by the gazelles or by the hinds of the field, that you will not arouse or awaken my love, until she pleases."
+
+will       arouse     awaken     pleases    
+mod        pres       pres       pres       
+
+תֶּחְפָּֽץ          תְּעֹֽורְר֛וּ       תָּעִ֧ירוּ          הִשְׁבַּ֨עְתִּי      
+
+ZQt0       Voct       xYq0       WxY0       xYq0       
+
+
+--------------------------------------------------
+
+8
+"listen
+     my beloved
+          behold, he is coming, climbing on the mountains, leaping on the hills!
+
+listen     beloved    is         coming     climbing   leaping    
+pres       past       pres       PSTptc     PSTptc     PSTptc     
+
+מְקַפֵּ֖ץ           מְדַלֵּג֙           בָּ֑א               
+
+NmCl       Ptcp       Ptcp       Ptcp       
+
+
+--------------------------------------------------
+
+9
+"my beloved is like a gazelle or a young stag
+     behold, he is standing behind our wall, he is looking through the windows, he is peering through the lattice.
+
+beloved    is         is         standing   is         looking    is         peering    
+PTptc      pres       pres       PSTptc     pres       PSTptc     pres       PSTptc     
+
+מֵצִ֖יץ             מַשְׁגִּ֨יחַ֙        עֹומֵד֙             דֹּומֶ֤ה            
+
+Ptcp       Ptcp       Ptcp       Ptcp       
+
+
+--------------------------------------------------
+
+10
+ "my beloved responded and said to me, 'arise, my darling, my beautiful one, and come along.
+
+beloved    responded  said       come       
+PTptc      past       past       pres       
+
+לְכִי               ק֥וּמִי             אָ֣מַר              עָנָ֥ה              
+
+ZQtX       WQt0       ZIm0       Voct       WIm0       
+
+
+--------------------------------------------------
+
+11
+ 'for behold, the winter is past, the rain is over and gone.
+
+'for       behold     is         is         gone       
+mod        pres       pres       pres       PTptc      
+
+הָלַ֥ךְ             חָלַ֖ף              עָבָ֑ר              
+
+XQtl       XQtl       ZQt0       
+
+
+--------------------------------------------------
+
+12
+ 'the flowers have already appeared in the land
+     the time has arrived for pruning the vines, and the voice of the turtledove has been heard in our land.
+
+have       appeared   has        arrived    pruning    has        been       heard      
+pres       PTptc      pres       PTptc      PSTptc     pres       PTptc      PTptc      
+
+נִשְׁמַ֥ע            הִגִּ֑יעַ           נִרְא֣וּ            
+
+XQtl       XQtl       WXQt       
+
+
+--------------------------------------------------
+
+13
+ 'the fig tree has ripened its figs, and the vines in blossom have given forth their fragrance
+     arise, my darling, my beautiful one, and come along!'"
+
+has        ripened    have       given      come       
+pres       PTptc      pres       PTptc      pres       
+
+לְכִי               ק֥וּמִי             נָ֣תְנוּ            חָֽנְטָ֣ה           
+
+XQtl       WXQt       ZIm0       Voct       WIm0       
+
+
+--------------------------------------------------
+
+14
+ "o my dove, in the clefts of the rock, in the secret place of the steep pathway, let me see your form, let me hear your voice
+     for your voice is sweet, and your form is lovely."
+
+o          let        see        let        hear       is         is         
+pres       pres       pres       pres       pres       pres       pres       
+
+הַשְׁמִיעִ֖ינִי      הַרְאִ֨ינִי֙        
+
+Voct       ZIm0       ZIm0       AjCl       AjCl       
+
+
+--------------------------------------------------
+
+15
+ "catch the foxes for us, the little foxes that are ruining the vineyards, while our vineyards are in blossom."
+
+catch      are        ruining    are        
+pres       pres       PSTptc     pres       
+
+מְחַבְּלִ֣ים        אֶֽחֱזוּ            
+
+ZIm0       Ptcp       NmCl       
+
+
+--------------------------------------------------
+
+16
+ "my beloved is mine, and i am his
+     he pastures his flock among the lilies.
+
+is         i          am         pastures   
+pres       pres       pres       pres       
+
+רֹעֶ֖ה              
+
+NmCl       NmCl       Ptcp       
+
+
+--------------------------------------------------
+
+17
+ "until the cool of the day when the shadows flee away, turn, my beloved, and be like a gazelle or a young stag on the mountains of bether."
+
+flee       beloved    be         
+pres       PTptc      pres       
+
+דְּמֵה              סֹב֩                נָ֖סוּ              יָּפ֨וּחַ֙          
+
+xYqX       WQtX       ZIm0       ZIm0       Voct       Ellp       
+
+
+--------------------------------------------------
+
