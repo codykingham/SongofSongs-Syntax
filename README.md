@@ -14,8 +14,10 @@ The three datasets are explained and described below:
 
 1. English_Translations
 <br>
-This code looks at the NAS, ESV, NIV, and NLT English translations of the Song of Songs to measure which tenses they select to translate the Hebrew verbs. The data for each of the translation analyses are stored in the respective directories, but NAS is stored in the main English_Translations directory as it serves as the example code. The data was eventually synthesized into a table and described further in my paper, "Clause Syntax in the Song of Songs" (13-15).
+These notebooks look at the NAS, ESV, NIV, and NLT English translations of the Song of Songs to measure which tenses they select to translate the Hebrew verbs. The data for each of the translation analyses are stored in the respective directories, but NAS is stored in the main English_Translations directory as it serves as the example code. There are two iPython notebooks used for the work. The first, "English_trans_processing.ipynb" produces a simple .txt file in which the English and Hebrew verbs are isolated for each verse so that I could manually compare them faster. NLTK and ETCBC are used to pull the verbs. I manually input the data into a csv file (stored in its respective translation directory). The second notebook, "English_verb_analyses.ipynb analyzes the csv files to produce statistical results. The data was eventually synthesized into a table and described further in my paper, "Clause Syntax in the Song of Songs" (13-15).
 
 2. Stichometry_vs_Syntax
 <br>
-These searches aim to answer the following questions: how often do poetic cola agree with clause boundaries? If they do not agree with clause boundaries, what syntactic structure DO they agree with? 
+These searches aim to answer the following questions: how often do poetic cola agree with clause boundaries? If they do not agree with clause boundaries, what syntactic structure DO they agree with? There are three steps in processing this particular data. 
+<br>
+    A. 
