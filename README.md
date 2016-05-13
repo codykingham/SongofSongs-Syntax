@@ -13,7 +13,9 @@ There are three primary directories containing Python code used for the project.
 The three datasets are explained and described below:
 
 1. English_Translations
+<br>
 This code looks at the NAS, ESV, NIV, and NLT English translations of the Song of Songs to measure which tenses they select to translate the Hebrew verbs. The data for each of the translation analyses are stored in the respective directories, but NAS is stored in the main English_Translations directory as it serves as the example code. The data was eventually synthesized into a table and described further in my paper, "Clause Syntax in the Song of Songs" (13-15).
 
 2. Stichometry_vs_Syntax
+<br>
 These searches aim to answer the following questions: how often do poetic cola agree with clause boundaries? If they do not agree with clause boundaries, what syntactic structure DO they agree with? 
