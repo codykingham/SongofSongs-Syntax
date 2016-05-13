@@ -20,11 +20,13 @@ These notebooks look at the NAS, ESV, NIV, and NLT English translations of the S
 These searches aim to answer the following questions: how often do poetic cola agree with clause boundaries? If they do not agree with clause boundaries, what syntactic structure DO they agree with? In the ETCBC database, syntactic structures carry a feature, "monad set" (https://shebanq.ancient-data.org/shebanq/static/docs/featuredoc/features/comments/monads.html). A monad set contains a range of numbers that correspond to individual words. By inputing the monad number of the beginning and ending word for each poetic cola in BHQ and Roberts, I compared the sets to see if they corresponded with data in ETCBC4b. This search was aided by the code stored in the SHEBANQ example notebook "monads.ipynb" (https://shebanq.ancient-data.org/shebanq/static/docs/tools/shebanq/monadsets.html). There are three steps in processing this particular data. 
 <br>
 <br>
-    A. monad_input.ipynb: This step provided a chance to practice Python while building an interactive program to input the beginning and ending monad numbers for each cola. The monad sets are written to a csv file to be processed in step B.
+    2A. monad_input.ipynb: This step provided a chance to practice Python while building an interactive program to input the beginning and ending monad numbers for each cola. The monad sets are written to a csv file to be processed in step B.
+    <br>
     <br>
     B. monad_search.ipynb: This step takes the csv files created in step A and compares the enclosed monad sets with monad sets in the ETCBC database. Syntactic units are stored in a new csv file in an abbreviated form to be analyzed in step C. 
     <br>
-    C. stichometry_analyses.ipynb: This is the final step and processes the csv file from step B into usable statistics. For monad sets that did not correspond with a formal syntactic unit, code was written to look up every syntactic unit contained so as to determine why these cola did not correspond at all.
+    <br>
+    2C. stichometry_analyses.ipynb: This is the final step and processes the csv file from step B into usable statistics. For monad sets that did not correspond with a formal syntactic unit, code was written to look up every syntactic unit contained so as to determine why these cola did not correspond at all.
 <br>
 The synthesis of these searches and their effect on my project can be read about in my paper, pp. 35-44.
 <br>
