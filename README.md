@@ -2,7 +2,7 @@
 
 This repository contains the iPython notebooks used in my recent MA thesis, "Clause Syntax in the Song of Songs: A Preliminary Study." A copy of the paper can be obtained at https://www.academia.edu/25273297/Clause_Syntax_in_the_Song_of_Songs_A_Preliminary_Study.
 
-The searches make use of the Eep Talstra Centre for Bible and Computer database (ETCBC4b) through LAF-Fabric. 
+The searches make use of the Eep Talstra Centre for Bible and Computer database (ETCBC4b) through LAF-Fabric (http://laf-fabric.readthedocs.io/en/latest/texts/welcome.html). 
 That database can be accessed at: 
 https://github.com/ETCBC
 
